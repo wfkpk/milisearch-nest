@@ -35,6 +35,13 @@ $ npm install
 ## Running the app
 
 ```bash
+$ docker pull getmeili/meilisearch
+
+$ docker run -it --name meilisearch -p 7700:7700 getmeili/meilisearch
+
+```
+after docker run command you will get `master-key` in console copy it and paste it in the search service.
+```bash
 # development
 $ npm run start
 
@@ -44,29 +51,6 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
