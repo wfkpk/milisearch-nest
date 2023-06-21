@@ -1,0 +1,3586 @@
+[
+   {
+      "id":1,
+      "name":".NET Rocks",
+      "link":"https://www.dotnetrocks.com/",
+      "rss_feed":"https://www.stitcher.com/podcast/net-rocks",
+      "description":".NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.",
+      "hosts":[
+         {
+            "name":"Carl Franklin"
+         },
+         {
+            "name":"Richard Campbell"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Twice a week",
+      "runtime":"45 - 60 mins, regularly ~60 mins"
+   },
+   {
+      "id":2,
+      "name":"The .NET Core Podcast",
+      "link":"https://dotnetcore.show/",
+      "rss_feed":"",
+      "description":"The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.",
+      "hosts":[
+         {
+            "name":"Jamie Taylor"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Once a fortnight",
+      "runtime":"30 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":3,
+      "name":"Gone Mobile",
+      "link":"https://www.gonemobile.io/",
+      "rss_feed":"",
+      "description":"A podcast discussing the latest in mobile development, with a healthy bias towards Xamarin technologies. The podcast covers in-depth topics with guests ranging from Android, iOS & Windows development to mobile marketing and design.",
+      "hosts":[
+         {
+            "name":"Greg Shackles"
+         },
+         {
+            "name":"Jon Dick"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Varies",
+      "runtime":"30 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":4,
+      "name":"HERDING CODE",
+      "link":"http://herdingcode.com",
+      "rss_feed":"",
+      "description":"A show covering a broad range of .NET-related topics in considerable technical depth.",
+      "hosts":[
+         {
+            "name":"K. Scott Allen"
+         },
+         {
+            "name":"Kevin Dente"
+         },
+         {
+            "name":"Scott Koon"
+         },
+         {
+            "name":"Jon Galloway"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Once a month",
+      "runtime":"15 - 60 mins, regularly ~55 mins"
+   },
+   {
+      "id":5,
+      "name":"Merge Conflict",
+      "link":"http://www.mergeconflict.fm/",
+      "rss_feed":"",
+      "description":"Join Frank & James for a weekly discussion on the world of technology and development including C#, F#, .NET, web, mobile, and more.",
+      "hosts":[
+         {
+            "name":"Frank Krueger"
+         },
+         {
+            "name":"James Montemagno"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Once a week",
+      "runtime":"30 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":6,
+      "name":"Agile For Humans",
+      "link":"https://ryanripley.com/agile-for-humans/",
+      "rss_feed":"",
+      "description":"Interviews people about Agile and becoming better at Agile",
+      "hosts":[
+         {
+            "name":"Ryan Ripley"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"25 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":7,
+      "name":"Agile In 3 Minutes",
+      "link":"https://agilein3minut.es/",
+      "rss_feed":"",
+      "description":"A micropodcast about thinking and doing business effectively.",
+      "hosts":[
+         {
+            "name":"Amitai Schleier"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a quarter",
+      "runtime":"3 mins, regularly ~3 mins"
+   },
+   {
+      "id":8,
+      "name":"Meta-Cast",
+      "link":"http://feeds.feedburner.com/meta-cast",
+      "rss_feed":"",
+      "description":"Bob Galen and Josh Anderson use their decades of agile coaching experience to power your organization's need for agility and scale.",
+      "hosts":[
+         {
+            "name":"Bob Galen"
+         },
+         {
+            "name":"Josh Anderson"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a fortnight",
+      "runtime":"40 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":9,
+      "name":"Scrum Master Toolbox",
+      "link":"https://scrum-master-toolbox.org/",
+      "rss_feed":"",
+      "description":"A daily podcast for Scrum Masters and Agile Coaches",
+      "hosts":[
+         {
+            "name":"Vasco Duarte"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Daily",
+      "runtime":"5 - 20 mins, regularly ~10 mins"
+   },
+   {
+      "id":10,
+      "name":"Android Developers Backstage",
+      "link":"https://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage",
+      "rss_feed":"",
+      "description":"Podcast interviewing Google engineers about the latest Android APIs",
+      "hosts":[
+         {
+            "name":"Romain Guy"
+         },
+         {
+            "name":"Chet Haase"
+         },
+         {
+            "name":"Tor Norbye"
+         }
+      ],
+      "category":"Android",
+      "frequency":"Once a month",
+      "runtime":"30 - 60 mins, regularly ~55 mins"
+   },
+   {
+      "id":11,
+      "name":"Android Snacks",
+      "link":"http://androidsnacks.com",
+      "rss_feed":"",
+      "description":"The TL;DR of last week's Android developer news",
+      "hosts":[
+         {
+            "name":"Mike Scamell"
+         }
+      ],
+      "category":"Android",
+      "frequency":"Once a week",
+      "runtime":"5 - 10 mins, regularly 5 mins"
+   },
+   {
+      "id":12,
+      "name":"Context Podcast",
+      "link":"https://github.com/artem-zinnatullin/TheContext-Podcast",
+      "rss_feed":"",
+      "description":"Podcast that discusses various frameworks and tools available in the Android Community",
+      "hosts":[
+         {
+            "name":"Artem Zinnatullin"
+         },
+         {
+            "name":"Hannes Dorfmann"
+         },
+         {
+            "name":"Artur Dryomov"
+         }
+      ],
+      "category":"Android",
+      "frequency":"Once a month",
+      "runtime":"35 - 100 mins, regularly ~50 mins"
+   },
+   {
+      "id":13,
+      "name":"Fragmented Podcast",
+      "link":"http://fragmentedpodcast.com/category/episodes/",
+      "rss_feed":"",
+      "description":"An Android Developer Podcast",
+      "hosts":[
+         {
+            "name":"Donn Felker"
+         },
+         {
+            "name":"Kaushik Gopal"
+         }
+      ],
+      "category":"Android",
+      "frequency":"Once or twice a week",
+      "runtime":"20 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":14,
+      "name":"BSDNow",
+      "link":"http://www.bsdnow.tv/",
+      "rss_feed":"",
+      "description":"We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD, and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.",
+      "hosts":[
+         {
+            "name":"Benedict Reuschling"
+         },
+         {
+            "name":"Allan Jude"
+         },
+         {
+            "name":"Kris Moore"
+         }
+      ],
+      "category":"BSD",
+      "frequency":"Once a week (Wednesday US Eastern)",
+      "runtime":"60 - 120 mins, regularly ~90 mins"
+   },
+   {
+      "id":15,
+      "name":"Cpp.chat",
+      "link":"http://slashslash.info/cppchat/",
+      "rss_feed":"",
+      "description":"A round-table chat with guests from the C++ community.",
+      "hosts":[
+         {
+            "name":"Jon Kalb"
+         }
+      ],
+      "category":"C++",
+      "frequency":"Varies",
+      "runtime":"50 - 70 minutes"
+   },
+   {
+      "id":16,
+      "name":"CppCast",
+      "link":"http://cppcast.com/",
+      "rss_feed":"",
+      "description":"All about C++ and many great interviews with prominent library and tool authors.",
+      "hosts":[
+         {
+            "name":"Rob Irving"
+         },
+         {
+            "name":"Jason Turner"
+         }
+      ],
+      "category":"C++",
+      "frequency":"Once a week",
+      "runtime":"40 - 60 mins, regularly ~55 mins"
+   },
+   {
+      "id":17,
+      "name":"BarCoding",
+      "link":"https://www.barcoding.dev/",
+      "rss_feed":"",
+      "description":"At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.",
+      "hosts":[
+         {
+            "name":"Paulien van Alst"
+         },
+         {
+            "name":"Arnout Rijpkema"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Monthly",
+      "runtime":"~40 mins"
+   },
+   {
+      "id":18,
+      "name":"CodeNewbie",
+      "link":"https://www.codenewbie.org/podcast",
+      "rss_feed":"",
+      "description":"Stories from people on their coding journey.",
+      "hosts":[
+         {
+            "name":"Saron Yitbarick"
+         }
+      ],
+      "category":"Career",
+      "frequency":"About twice a month",
+      "runtime":"30-90 minutes"
+   },
+   {
+      "id":19,
+      "name":"Developer's Journey",
+      "link":"https://www.devjourney.info",
+      "rss_feed":"",
+      "description":"Life and career lessons to influence your software developer's journey",
+      "hosts":[
+         {
+            "name":"Tim Bourguignon"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Weekly",
+      "runtime":"35-50 minutes"
+   },
+   {
+      "id":20,
+      "name":"Developing Up",
+      "link":"https://www.developingup.com",
+      "rss_feed":"",
+      "description":"A podcast focused on the non-technical side of being a developer, because having a career in development is about more than writing code.",
+      "hosts":[
+         {
+            "name":"Michael Miles"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Approximately once a month",
+      "runtime":"15 - 35 mins, regularly ~25 mins"
+   },
+   {
+      "id":21,
+      "name":"devpath.fm",
+      "link":"https://www.devpath.fm",
+      "rss_feed":"",
+      "description":"Candid interviews with highly successful software developers covering imposter syndrome, personal triumphs, obstacles, and career advice.",
+      "hosts":[
+         {
+            "name":"Jacob Herrington"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Once a week",
+      "runtime":"30 - 45 mins"
+   },
+   {
+      "id":22,
+      "name":"Founders Talk",
+      "link":"https://changelog.com/founderstalk",
+      "rss_feed":"",
+      "description":"In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles.",
+      "hosts":[
+         {
+            "name":"Adam Stacoviak"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Weekly(ish)",
+      "runtime":"60 - 80 mins"
+   },
+   {
+      "id":23,
+      "name":"From The Source",
+      "link":"http://www.fromsourcepod.com/",
+      "rss_feed":"",
+      "description":"From the Source is an interview show that answers the question of what tech jobs are really like, both the good and the boring.",
+      "hosts":[
+         {
+            "name":"Michelle Brenner"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Biweekly",
+      "runtime":"20-40 minutes"
+   },
+   {
+      "id":24,
+      "name":"Learn To Code With Me",
+      "link":"https://learntocodewith.me/podcast/",
+      "rss_feed":"",
+      "description":"Conversations with developers at different points in their career, with topics ranging from learning the basics to rebounding from burnout.",
+      "hosts":[
+         {
+            "name":"Laurence Bradford"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Once a week",
+      "runtime":"30 - 40 mins, regularly ~35 mins"
+   },
+   {
+      "id":25,
+      "name":"Pursuit Podcast",
+      "link":"http://pursuit.tech/",
+      "rss_feed":"",
+      "description":"Conversations with various people working in tech on their area of expertise - all range of topics related to tech career.",
+      "hosts":[
+         {
+            "name":"Jessica Rose"
+         }
+      ],
+      "category":"Career",
+      "frequency":"About once a month",
+      "runtime":"~30 minutes"
+   },
+   {
+      "id":26,
+      "name":"Rushing Forward",
+      "link":"https://polelo.co/frequencies/zzh9zg1P4Ju",
+      "rss_feed":"",
+      "description":"Conversations on stuff people go through - juggling adulting and trying to make something of themselves in your career, sharing pitfalls, struggles and achievements - We're Icarus and we're trying not to heed the pull of the giant revolving sphere that is life because it can burn you out.",
+      "hosts":[
+         {
+            "name":"Daniel Madalitso Phiri"
+         }
+      ],
+      "category":"Career",
+      "frequency":"About twice a month",
+      "runtime":"~45 minutes"
+   },
+   {
+      "id":27,
+      "name":"Schmidt List",
+      "link":"https://www.schmidt-list.com/",
+      "rss_feed":"",
+      "description":"Interview series produced to inspire people who manage projects, build digital products, and lead teams in design and technology.",
+      "hosts":[
+         {
+            "name":"Kurt Schmidt"
+         }
+      ],
+      "category":"Career",
+      "frequency":"Weekly",
+      "runtime":"30 - 45 mins"
+   },
+   {
+      "id":28,
+      "name":"Tech Queens",
+      "link":"https://techqueenspod.com",
+      "rss_feed":"",
+      "description":"Stories and advice shared by women of color in tech",
+      "hosts":[
+         {
+            "name":"Frances Coronel"
+         }
+      ],
+      "category":"Career",
+      "frequency":"At least once a month",
+      "runtime":"~1 hour"
+   },
+   {
+      "id":29,
+      "name":"Using Reflection",
+      "link":"http://www.usingreflection.com/",
+      "rss_feed":"",
+      "description":"Engineers reflect on what they've learned about being effective professionals, working in teams and themselves.",
+      "hosts":[
+         {
+            "name":"Mark S. Weiss"
+         }
+      ],
+      "category":"Career",
+      "frequency":"About twice a month",
+      "runtime":"35-50 minutes"
+   },
+   {
+      "id":30,
+      "name":"Cognicast",
+      "link":"http://blog.cognitect.com/cognicast",
+      "rss_feed":"",
+      "description":"Interviews with leaders and folks of the Clojure and ClojureScript community.",
+      "hosts":[
+         {
+            "name":"Craig Andera"
+         }
+      ],
+      "category":"Clojure",
+      "frequency":"Twice a month",
+      "runtime":"40 - 80 minutes, regularly ~60 minutes"
+   },
+   {
+      "id":31,
+      "name":"Defn",
+      "link":"https://defn.audio/",
+      "rss_feed":"",
+      "description":"Interviews with leaders and folks of the Clojure and ClojureScript community.",
+      "hosts":[
+         {
+            "name":"Vijay Kiran"
+         },
+         {
+            "name":"Ray McDermott"
+         }
+      ],
+      "category":"Clojure",
+      "frequency":"Every other week",
+      "runtime":"50 - 105 minutes, regularly ~75 minutes"
+   },
+   {
+      "id":32,
+      "name":"The REPL",
+      "link":"https://www.therepl.net",
+      "rss_feed":"",
+      "description":"The podcast talks with the creators of Clojure programs and libraries. They go into the technical underpinnings, their motivations for creating it, features they’re proud of, and what they learned along the way.",
+      "hosts":[
+         {
+            "name":"Daniel Compton"
+         }
+      ],
+      "category":"Clojure",
+      "frequency":"Once a week",
+      "runtime":"25 - 95 minutes, regularly ~50 minutes"
+   },
+   {
+      "id":33,
+      "name":"Cloudcast Basics",
+      "link":"https://www.cloudcastbasics.net/",
+      "rss_feed":"",
+      "description":"A podcast for understanding basics of Cloud Computing.",
+      "hosts":[
+         {
+            "name":"Aaron Delp"
+         },
+         {
+            "name":"Brian Gracely"
+         }
+      ],
+      "category":"Cloud",
+      "frequency":"Once a week",
+      "runtime":"10 - 20 minutes, regularly ~15 minutes"
+   },
+   {
+      "id":34,
+      "name":"Away from Keyboard",
+      "link":"https://changelog.com/afk",
+      "rss_feed":"",
+      "description":"A podcast exploring the human side of creative work. Life, mistakes, burnout, and finding balance while creating satisfying work.",
+      "hosts":[
+         {
+            "name":"Tim Smith"
+         }
+      ],
+      "category":"Creativity",
+      "frequency":"Every other Wednesday",
+      "runtime":"~30 minutes"
+   },
+   {
+      "id":35,
+      "name":"Bad Voltage",
+      "link":"https://www.badvoltage.org/",
+      "rss_feed":"",
+      "description":"Technology with a free software / open source slant, crossing over into related political topics. Evolution of the now-defunct LugRadio podcast.",
+      "hosts":[
+         {
+            "name":"Jono Bacon"
+         },
+         {
+            "name":"Jeremy Garcia"
+         },
+         {
+            "name":"Stuart Langridge"
+         }
+      ],
+      "category":"Culture",
+      "frequency":"Twice a month",
+      "runtime":"50 - 80 minutes, regularly ~70 minutes"
+   },
+   {
+      "id":36,
+      "name":"BarCoding",
+      "link":"https://www.barcoding.dev/",
+      "rss_feed":"",
+      "description":"At Barcoding we share our knowledge as software developers. As passionate developers, we sometimes cannot stop talking about it. Especially during Friday night drinks, we tend to discuss a lot about the challenges we faced during the week. We try to capture these talks and to share them.",
+      "hosts":[
+         {
+            "name":"Paulien van Alst"
+         },
+         {
+            "name":"Arnout Rijpkema"
+         }
+      ],
+      "category":"Culture",
+      "frequency":"Monthly",
+      "runtime":"~40 minutes"
+   },
+   {
+      "id":37,
+      "name":"Brain Science",
+      "link":"https://changelog.com/brainscience",
+      "rss_feed":"",
+      "description":"We’re exploring the inner-workings of the human brain to understand behavior change, habit formation, mental health, and being human.",
+      "hosts":[
+         {
+            "name":"Mireille B. Reece, Psy.D and Adam Stacoviak"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Twice a month",
+      "runtime":"~30-45 minutes"
+   },
+   {
+      "id":38,
+      "name":"EmacsCast",
+      "link":"https://emacscast.org/",
+      "rss_feed":"",
+      "description":"Exploring the world of Emacs as a beginner, learning how to grow a wonderful tool out of raw materials and with community's help.",
+      "hosts":[
+         {
+            "name":"Rakhim Davletkaliyev"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a month",
+      "runtime":"20 - 45 minutes"
+   },
+   {
+      "id":39,
+      "name":"Full Stack Cast",
+      "link":"https://podcast.fullstackfest.com/",
+      "rss_feed":"",
+      "description":"Interviews to past and future speakers of the Full Stack Fest conference, focusing on personal experiences and their personal journeys.",
+      "frequency":"Once a month",
+      "runtime":"50 - 80 minutes"
+   },
+   {
+      "id":40,
+      "name":"Greater than Code",
+      "link":"https://www.greaterthancode.com/",
+      "rss_feed":"",
+      "description":"Interviews and discussions about where code and people meet and why #PeopleMatter",
+      "frequency":"Once a week",
+      "runtime":"45 - 75 minutes, regularly ~55 minutes"
+   },
+   {
+      "id":41,
+      "name":"Learn To Code With Me",
+      "link":"https://learntocodewith.me/podcast/",
+      "rss_feed":"",
+      "description":"For aspiring techies and self-taught coders looking to transition into the tech industry.",
+      "hosts":[
+         {
+            "name":"Laurence Bradford"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"30 - 40 minutes, regularly ~35 minutes"
+   },
+   {
+      "id":42,
+      "name":"Open source developer podcast",
+      "link":"https://anchor.fm/opensourcedeveloperpod",
+      "rss_feed":"",
+      "description":"Looking at open source including projects, community and people.",
+      "hosts":[
+         {
+            "name":"James Perkins"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"10-25 minutes usually around 15 minutes"
+   },
+   {
+      "id":43,
+      "name":"Semaphore Uncut",
+      "link":"https://semaphoreci.com/podcast",
+      "rss_feed":"",
+      "description":"Software industry pros discuss problems they're currently solving with the products they're working on.",
+      "hosts":[
+         {
+            "name":"Darko Fabijan"
+         }
+      ],
+      "frequency":"At least once every two weeks",
+      "runtime":"~30 minutes"
+   },
+   {
+      "id":44,
+      "name":"Stories From the Workshop",
+      "link":"https://anvil.works/podcast",
+      "rss_feed":"",
+      "description":"Experts are solving problems in lots of different fields by building web apps. Each episode, an expert from an interesting field talks about what they do, and how they’re building software to solve their problems.",
+      "hosts":[
+         {
+            "name":"Meredydd Luff"
+         }
+      ],
+      "frequency":"Once a month",
+      "runtime":"30 - 45 minutes"
+   },
+   {
+      "id":45,
+      "name":"Software Engineering Unlocked",
+      "link":"https://www.software-engineering-unlocked.com/",
+      "rss_feed":"",
+      "description":"Interviews with developers and thought leaders from around the world about how they develop software. Discussion on the best practices, engineering culture, and the mindset that is lived at their companies.",
+      "hosts":[
+         {
+            "name":"Doctor McKayla"
+         }
+      ],
+      "frequency":"Approximately twice per month",
+      "runtime":"30 - 60 minutes"
+   },
+   {
+      "id":46,
+      "name":"Working Code",
+      "link":"https://workingcode.dev/",
+      "rss_feed":"",
+      "description":"Water-cooler conversation about web-development. We want to entertain, inspire, and motivate you -- or to put it another way, make your coding career more enjoyable.",
+      "hosts":[
+         {
+            "name":"Adam, Ben, Carol, and Tim"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"45 - 60 minutes"
+   },
+   {
+      "id":47,
+      "name":"DevRelChat",
+      "link":"http://devrelchat.dev/",
+      "description":"Developer Relations Conversations delivered in Audio & Video formats with leading industry specialist for the community.#DevRelChat",
+      "frequency":"Twice a Month",
+      "host":{
+         "name":"Shodipo Ayomide"
+      },
+      "runtime":"30 - 45 min, regularly ~35 mins"
+   },
+   {
+      "id":48,
+      "name":"The Data Engineering Show",
+      "link":"https://www.dataengineeringshow.com/subscribe",
+      "description":"The DATA BROS talk to top data engineers from tech-forward brands about how they address their biggest data challenges.",
+      "frequency":"Once a week",
+      "host":{
+         "name":"Eldad and Boaz Farkash"
+      },
+      "runtime":"30 - 60 min, regularly ~45 mins"
+   },
+   {
+      "id":49,
+      "name":"Big Data Beard",
+      "link":"https://bigdatabeard.com/subscribe-to-podcast/",
+      "description":"Sharing crumbs of knowledge and experience collected from working in the big data ecosystem.",
+      "frequency":"Once a week",
+      "host":{
+         "name":"Cory Minto, et al."
+      },
+      "runtime":"30 - 60 min, regularly ~45 mins"
+   },
+   {
+      "id":50,
+      "name":"Data Engineering Podcast",
+      "link":"https://www.dataengineeringpodcast.com",
+      "description":"A show that digs deep into databases, big data pipelines, data governance, data collection, ETL, building effective data teams, and all of the other challenges faced by technology professionals working on data management.",
+      "frequency":"Once a week",
+      "host":{
+         "name":"Tobias Macey"
+      },
+      "runtime":"30-60 mins, regularly ~45 mins"
+   },
+   {
+      "id":51,
+      "name":"Drill To Detail",
+      "link":"https://www.drilltodetail.com/",
+      "description":"A podcast and accompanying blog on the business and strategy of analytics, big data and distributed processing in the cloud",
+      "frequency":"Varies",
+      "host":{
+         "name":"Mark Rittman"
+      },
+      "runtime":"30-60 mins, regularly ~45 mins"
+   },
+   {
+      "id":52,
+      "name":"Roaring Elephant",
+      "link":"https://roaringelephant.org/",
+      "description":"A weekly community podcast about Apache Hadoop and the surrounding ecosystem for anyone working with or investigating Big Data and Advanced Analytics",
+      "frequency":"Once a week",
+      "host":{
+         "name":"Jhon Masschelein and Dave Russell"
+      },
+      "runtime":"15 - 60 mins, regularly ~20 mins"
+   },
+   {
+      "id":53,
+      "name":"The MongoDB Podcast",
+      "link":"https://www.mongodb.com/podcast",
+      "description":"Interviews, and discussions related to software development, data, and all things MongoDB.",
+      "frequency":"Once a week",
+      "host":{
+         "name":"Michael Lynn"
+      },
+      "runtime":"30 - 60 min, regularly ~45 mins"
+   },
+   {
+      "id":54,
+      "name":"The AI Podcast",
+      "link":"https://blogs.nvidia.com/ai-podcast/",
+      "description":"Interviews with the worlds leading experts in artificial intelligence, deep learning, and machine learning to explain how it works, how it’s evolving, and how it intersects with every facet of human endeavor, from art to science.",
+      "host":{
+         "name":"Noah Kravitz, Michael Copeland"
+      },
+      "frequency":"Once a week",
+      "runtime":"20 - 40 mins, regularly ~30 mins"
+   },
+   {
+      "id":55,
+      "name":"The Architecht Show",
+      "link":"http://architechtshow.com/",
+      "description":"A weekly podcast about the business of cloud computing, artificial intelligence, and data science.",
+      "host":{
+         "name":"Derrick Harris"
+      },
+      "frequency":"Once a week",
+      "runtime":"30 - 40 mins, regularly ~35 mins"
+   },
+   {
+      "id":56,
+      "name":"Concerning AI",
+      "link":"https://concerning.ai",
+      "description":"Talking about the existential risk from Human-level (and beyond) Artificial Intelligence and what can be done about it.",
+      "host":{
+         "name":"Ted Sarvata, Brandon Sanders"
+      },
+      "frequency":"Every two weeks",
+      "runtime":"20 - 40 mins, regularly ~30 mins"
+   },
+   {
+      "id":57,
+      "name":"Data Driven",
+      "link":"http://datadriven.tv/",
+      "description":"Exploring the field of data science, software engineering, machine learning, and AI.",
+      "host":{
+         "name":"Frank La Vigne, Andy Leonard"
+      },
+      "frequency":"Once a week",
+      "runtime":"5 - 60 mins, regularly ~5 mins"
+   },
+   {
+      "id":58,
+      "name":"DataFramed",
+      "link":"https://www.datacamp.com/community/podcast",
+      "description":"Interviews with industry experts on what data science is, what problems it tries to solve, and what it looks like in practice.",
+      "host":{
+         "name":"Hugo Bowne-Anderson"
+      },
+      "frequency":"Once a week",
+      "runtime":"50 - 60 mins"
+   },
+   {
+      "id":59,
+      "name":"Data Skeptic",
+      "link":"https://dataskeptic.com/",
+      "description":"High-level concepts in data science and longer interviews with researchers and practitioners.",
+      "host":{
+         "name":"Kyle Polich"
+      },
+      "frequency":"Once a week",
+      "runtime":"15 - 45 mins, regularly ~25 mins"
+   },
+   {
+      "id":60,
+      "name":"Data Stories",
+      "link":"http://datastori.es/",
+      "description":"A podcast on data visualization.",
+      "host":{
+         "name":"Enrico Bertini, Moritz Stefaner"
+      },
+      "frequency":"Once a week",
+      "runtime":"~45 mins"
+   },
+   {
+      "id":61,
+      "name":"Data Viz Today",
+      "link":"https://dataviztoday.com/",
+      "description":"Sharing stories about how awesome and comprehensive data visualizations are made.",
+      "host":{
+         "name":"Alli Torban"
+      },
+      "frequency":"Varies",
+      "runtime":"~20 mins"
+   },
+   {
+      "id":62,
+      "name":"Linear Digressions",
+      "link":"http://lineardigressions.com/",
+      "description":"Data science, machine learning, artificial intelligence.",
+      "host":{
+         "name":"Katie Malone, Ben Jaffe"
+      },
+      "frequency":"Once a week",
+      "runtime":"10 - 20 mins, regularly ~15 mins"
+   },
+   {
+      "id":63,
+      "name":"Learning Machines 101",
+      "link":"http://www.learningmachines101.com/",
+      "description":"An accessible introduction to the complex and fascinating world of Artificial Intelligence.",
+      "host":{
+         "name":"Dr. Richard M. Golden"
+      },
+      "frequency":"Once a month",
+      "runtime":"20 - 35 mins, regularly ~30 mins"
+   },
+   {
+      "id":64,
+      "name":"ocdlevel Machine Learning Guide",
+      "link":"http://ocdevel.com/podcasts/machine-learning",
+      "description":"Podcast that teaches high-level fundamentals of Machine Learning with exercises.",
+      "host":{
+         "name":"Tyler Renelle"
+      },
+      "frequency":"Varies",
+      "runtime":"20 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":65,
+      "name":"O'Reilly Data Show",
+      "link":"https://www.oreilly.com/topics/oreilly-data-show-podcast",
+      "description":"Exploring opportunities and techniques driving big data, data science, and AI through interviews and analysis.",
+      "host":{
+         "name":"Ben Lorica"
+      },
+      "frequency":"Varies",
+      "runtime":"20 - 50 mins, regularly ~35 mins"
+   },
+   {
+      "id":66,
+      "name":"Practical AI",
+      "link":"https://changelog.com/practicalai",
+      "description":"Making artificial intelligence practical, productive, and accessible to everyone.",
+      "host":{
+         "name":"Daniel Whitenack, Chris Benson"
+      },
+      "frequency":"Once a week",
+      "runtime":"~45 minutes"
+   },
+   {
+      "id":67,
+      "name":"Super DataScience",
+      "link":"https://www.superdatascience.com/podcast/",
+      "description":"Podcast that interviews various people in the data science industry.",
+      "host":{
+         "name":"Kirill Eremenko"
+      },
+      "frequency":"Once a week",
+      "runtime":"Alternates between ~5 and ~60 mins"
+   },
+   {
+      "id":68,
+      "name":"Talking Machines",
+      "link":"https://www.thetalkingmachines.com",
+      "description":"Conversations with experts in the field and discussions of industry news and questions.",
+      "host":{
+         "name":"Katherine Gorman, Neil Lawrence"
+      },
+      "frequency":"Every other week",
+      "runtime":"35 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":69,
+      "name":"This Week in Machine Learning & AI (TWiML & AI)",
+      "link":"https://twimlai.com/",
+      "description":"Stories from the world of machine learning and artificial intelligence, discussing the latest developments in research, technology, and business.",
+      "host":{
+         "name":"Sam Charrington"
+      },
+      "frequency":"Twice a week",
+      "runtime":"30 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":70,
+      "name":"Adventures in DevOps",
+      "link":"https://devchat.tv/adventures-in-devops/",
+      "description":"Adventures in DevOps is a weekly podcast about everything DevOps.",
+      "hosts":[
+         {
+            "name":"Nell Shamrell-Harrington"
+         },
+         {
+            "name":"Scott Nixon"
+         },
+         {
+            "name":"Lee Whalen"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Varies",
+      "runtime":"30 - 60 mins"
+   },
+   {
+      "id":71,
+      "name":"Arrested DevOps",
+      "link":"https://www.arresteddevops.com/",
+      "description":"ADO helps you understand and develop good DevOps practices.",
+      "hosts":[
+         {
+            "name":"Joe Laha"
+         },
+         {
+            "name":"Bridget Kromhout"
+         },
+         {
+            "name":"Matty Stratton"
+         },
+         {
+            "name":"Trevor Hess"
+         },
+         {
+            "name":"Jessica Kerr"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Varies",
+      "runtime":"40 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":72,
+      "name":"DevOps Cafe",
+      "link":"http://devopscafe.org/",
+      "description":"A pragmatic look at the technology, tools, and business developments behind the emerging DevOps movement.",
+      "hosts":[
+         {
+            "name":"John Willis"
+         },
+         {
+            "name":"Damon Edwards"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Varies",
+      "runtime":"45 - 75 mins, regularly ~55 mins"
+   },
+   {
+      "id":73,
+      "name":"HashiCast",
+      "link":"https://www.hashicorp.com/blog/introducing-hashicast",
+      "description":"A podcast about the world of infrastructure",
+      "hosts":[
+         {
+            "name":"Anubhav Mishra"
+         },
+         {
+            "name":"Nic Jackson"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Bi-Weekly",
+      "runtime":"Regularly 45 mins"
+   },
+   {
+      "id":74,
+      "name":"SANS Internet Storm Center StormCast",
+      "link":"https://isc.sans.edu/podcast.html",
+      "description":"Stormcasts are daily 5-10 minute information security threat updates.",
+      "hosts":[
+         {
+            "name":"Dr. Johannes Ullrich"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Daily",
+      "runtime":"Regularly 5 mins"
+   },
+   {
+      "id":75,
+      "name":"Screaming in the Cloud",
+      "link":"https://www.screaminginthecloud.com/",
+      "description":"Snarky take on DevOps topics",
+      "hosts":[
+         {
+            "name":"Corey Quinn"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Weekly-ish",
+      "runtime":"25 - 35 mins, regularly ~35 mins"
+   },
+   {
+      "id":76,
+      "name":"To Be Continuous",
+      "link":"https://www.heavybit.com/library/podcasts/to-be-continuous/",
+      "rss_feed":"https://www.heavybit.com/category/library/podcasts/to-be-continuous/feed/",
+      "description":"A show all about continuous delivery and software development.",
+      "hosts":[
+         {
+            "name":"Edith Harbaugh"
+         },
+         {
+            "name":"Paul Biggar"
+         }
+      ],
+      "category":"DevOps",
+      "frequency":"Once a month",
+      "runtime":"25 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":77,
+      "name":"It's All Widgets! Flutter Podcast",
+      "link":"https://itsallwidgets.com/podcast/",
+      "rss_feed":"https://itsallwidgets.com/podcast/feed",
+      "description":"An ongoing series featuring some of the amazing developers from the Flutter community. In each episode, we discuss the developer's background, what got them into Flutter, and their thoughts on the platform in general.",
+      "hosts":[
+         {
+            "name":"Hillel Coren"
+         }
+      ],
+      "category":"Flutter",
+      "frequency":"Twice a week",
+      "runtime":"15-30 mins, regularly ~15 mins"
+   },
+   {
+      "id":78,
+      "name":"CoRecursive",
+      "link":"https://corecursive.com/",
+      "rss_feed":"https://corecursive.libsyn.com/rss",
+      "description":"Interviews with functional programming devs & researchers covering a variety of languages. Language focus is approx. 50% Scala, 50% Haskell/Idris/Everything else.",
+      "hosts":[
+         {
+            "name":"Adam Gordon Bell"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Varies",
+      "runtime":"50 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":79,
+      "name":"The Elixir Fountain",
+      "link":"https://soundcloud.com/elixirfountain",
+      "rss_feed":"https://feeds.soundcloud.com/users/soundcloud:users:245421345/sounds.rss",
+      "description":"Podcasts for news & interviews from around the @Elixirlang Community",
+      "hosts":[
+         {
+            "name":"Johnny Winn"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Varies",
+      "runtime":"30 - 60 mins, regularly ~55 mins"
+   },
+   {
+      "id":80,
+      "name":"Elixir Mix",
+      "link":"https://devchat.tv/elixir-mix/",
+      "rss_feed":"https://feeds.feedwrench.com/ElixirMix.rss",
+      "description":"Discussions around functional programming topics, the Elixir ecosystem, and real-world apps built with Elixir-based tools and frameworks.",
+      "host":[
+         
+      ],
+      "category":"Functional Programming",
+      "frequency":"Once a week",
+      "runtime":"45-60 minutes"
+   },
+   {
+      "id":81,
+      "name":"Elixir Talk",
+      "link":"https://soundcloud.com/elixirtalk",
+      "rss_feed":"https://itunes.apple.com/us/podcast/elixirtalk/id1298287048",
+      "description":"Titillating discussion about Elixir application design and ecosystem state.",
+      "hosts":[
+         {
+            "name":"Desmond Bowe"
+         },
+         {
+            "name":"Chris Bell"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Twice per month",
+      "runtime":"30 - 65 mins, regularly ~40 mins"
+   },
+   {
+      "id":82,
+      "name":"Elm Town",
+      "link":"https://elmtown.github.io/",
+      "rss_feed":"https://pinecast.com/feed/elmtown",
+      "description":"About the people making and using the Elm language.",
+      "hosts":[
+         {
+            "name":"Kevin Yank"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Varies",
+      "runtime":"30 - 75 mins, regularly ~60 mins"
+   },
+   {
+      "id":83,
+      "name":"FunctionalGeekery",
+      "link":"https://www.functionalgeekery.com/",
+      "rss_feed":"https://www.functionalgeekery.com/feed/mp3/",
+      "description":"All functional programming languages",
+      "hosts":[
+         {
+            "name":"Steven Proctor"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Once a month",
+      "runtime":"40 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":84,
+      "name":"Haskell Cast",
+      "link":"https://www.haskellcast.com/",
+      "rss_feed":"https://www.haskellcast.com/feed.xml",
+      "description":"Core Haskell concepts",
+      "hosts":[
+         {
+            "name":"Chris Forno"
+         },
+         {
+            "name":"Alp Mestanogullari"
+         }
+      ],
+      "category":"Functional Programming",
+      "frequency":"Once a month",
+      "runtime":"50 - 65 mins, regularly ~55 mins"
+   },
+   {
+      "id":85,
+      "name":"Lambdacast",
+      "link":"https://soundcloud.com/lambda-cast",
+      "rss_feed":"https://feeds.soundcloud.com/users/soundcloud:users:198019574/sounds.rss",
+      "description":"Functional programming core concepts",
+      "frequency":"Once in 2 months",
+      "runtime":"45 - 100 mins, regularly ~60 mins"
+   },
+   {
+      "id":86,
+      "name":"The 6 Figure Developer Podcast",
+      "link":"https://6figuredev.com/",
+      "rss_feed":"https://6figuredev.com/feed/podcast/",
+      "description":"The 6 Figure Developer Podcast is a show dedicated to helping developers to grow their career. Topics include Test Driven Development, Clean Code, Professionalism, Entrepreneurship, as well as the latest and greatest programming languages and concepts.",
+      "hosts":[
+         {
+            "name":"John Callaway"
+         },
+         {
+            "name":"Clayton Hunt"
+         },
+         {
+            "name":"Jon Ash"
+         }
+      ],
+      "category":"General Software",
+      "frequency":"Once a week",
+      "runtime":"~35 mins"
+   },
+   {
+      "id":87,
+      "name":"The Accidental Engineer",
+      "link":"https://theaccidentalengineer.com/",
+      "rss_feed":"https://theaccidentalengineer.com/feed/podcast/",
+      "description":"Anything and everything related to software",
+      "frequency":"Once a week",
+      "runtime":"20 - 55 mins, regularly ~40 mins"
+   },
+   {
+      "id":88,
+      "name":"Art of Product",
+      "link":"https://artofproductpodcast.com/",
+      "rss_feed":"https://feeds.fireside.fm/artofproduct/rss",
+      "description":"The Art of Product is a podcast chronicling the journeys of two software entrepreneurs (Ben Orenstein and Derrick Reimer) building startups. Discussions span from the technical realm to the business side and everything in between.",
+      "hosts":[
+         {
+            "name":"Derrick Reimer"
+         },
+         {
+            "name":"Ben Orenstein"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"45 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":89,
+      "name":"Away from keyboard",
+      "link":"http://awayfromthekeyboard.com/",
+      "rss_feed":"http://awayfromthekeyboard.com/feed/podcast/",
+      "description":"Away From The Keyboard is a podcast that talks to technologists and tells their stories. Stories about how they started, how they grew, how they learned, and how they unwind.",
+      "hosts":[
+         {
+            "name":"Cecil Phillip"
+         },
+         {
+            "name":"Richie Rump"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"30 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":90,
+      "name":"Base.cs",
+      "link":"https://www.codenewbie.org/basecs",
+      "rss_feed":"https://simplecast.com/podcasts/271/rss",
+      "description":"CodeNewbie teams up with Vaidehi Joshi to turn her base.cs blog series into an awesome podcast.",
+      "hosts":[
+         {
+            "name":"Vaidehi Joshi"
+         },
+         {
+            "name":"Saron Yitbarek"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"15 - 30 mins, regularly ~25 mins"
+   },
+   {
+      "id":91,
+      "name":"The Bike Shed",
+      "link":"http://bikeshed.fm/",
+      "rss_feed":"http://simplecast.fm/podcasts/282/rss",
+      "description":"Ruby, Rails, Javascript",
+      "hosts":[
+         {
+            "name":"Chris Toomey"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"30 - 50 mins, regularly ~35 mins"
+   },
+   {
+      "id":92,
+      "name":"BookBytes",
+      "link":"https://www.orbit.fm/bookbytes/",
+      "rss_feed":"https://anchor.fm/s/1b275ac/podcast/rss",
+      "description":"A book club for developers.",
+      "hosts":[
+         {
+            "name":"Adam Garrett-Harris"
+         },
+         {
+            "name":"Jason Staten"
+         },
+         {
+            "name":"Jen Luker"
+         },
+         {
+            "name":"Safia Abdalla"
+         }
+      ],
+      "frequency":"Once a fortnight",
+      "runtime":"40 - 60 mins, regularly ~60 mins"
+   },
+   {
+      "id":93,
+      "name":"CaSE",
+      "link":"http://www.case-podcast.org/",
+      "rss_feed":"http://www.case-podcast.org/feed.xml",
+      "description":"CaSE is an interview podcast for software developers and architects about Software Engineering and related topics.",
+      "hosts":[
+         {
+            "name":"Sven Johann"
+         },
+         {
+            "name":"Eberhard Wolff"
+         },
+         {
+            "name":"Joy Heron"
+         },
+         {
+            "name":"Stefan Tilkov"
+         },
+         {
+            "name":"Lucas Dohmen"
+         }
+      ],
+      "frequency":"Every three weeks",
+      "runtime":"50 - 65 mins, regularly ~55 mins"
+   },
+   {
+      "id":94,
+      "name":"The Changelog",
+      "link":"https://changelog.com/podcast",
+      "rss_feed":"https://changelog.com/podcast/feed",
+      "description":"Conversations with the hackers, leaders, and innovators of software development.",
+      "hosts":[
+         {
+            "name":"Adam Stacoviak"
+         },
+         {
+            "name":"Jerod Santo"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"40 - 80 mins, regularly ~60 mins"
+   },
+   {
+      "id":95,
+      "name":"Code",
+      "link":"https://codepodcast.com/",
+      "rss_feed":"https://codepodcast.com/feed.xml",
+      "description":"Code Podcast is about ideas that shape the way we build software",
+      "hosts":[
+         {
+            "name":"Andrey Salomatin"
+         },
+         {
+            "name":"Michael Beschastnov"
+         }
+      ],
+      "frequency":"Once a month",
+      "runtime":"20 - 50 mins, regularly ~40 mins"
+   },
+   {
+      "id":96,
+      "name":"Code Cast ZM",
+      "link":"https://anchor.fm/code-cast-zm",
+      "rss_feed":"https://anchor.fm/s/1b275ac/podcast/rss",
+      "description":"A biweekly podcast that focuses on everything tech (from innovations in AI and machine learning to the latest in data science, from the WWDC to Google IO), and the role developers play in shaping the future of technology, both from a uniquely Zambian perspective to the repercussions on a global scale",
+      "hosts":[
+         {
+            "name":"Mwiche Musenge"
+         }
+      ],
+      "frequency":"Bi-Weekly",
+      "runtime":"regularly ~60 mins"
+   },
+   {
+      "id":97,
+      "name":"Code Newbie",
+      "link":"https://www.codenewbie.org/podcast",
+      "rss_feed":"https://simplecast.com/podcasts/279/rss",
+      "description":"Stories from people on their coding journey.",
+      "hosts":[
+         {
+            "name":"Saron Yitbarek"
+         }
+      ],
+      "frequency":"Every Monday",
+      "runtime":"30 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":98,
+      "name":"CodePen Radio",
+      "link":"https://blog.codepen.io/radio/",
+      "rss_feed":"https://blog.codepen.io/radio/feed/",
+      "description":"The people behind Codepen.io talk business, tech and more!",
+      "hosts":[
+         {
+            "name":"Chris Coyier"
+         },
+         {
+            "name":"Marie Mosley"
+         },
+         {
+            "name":"Alex Vazquez"
+         }
+      ],
+      "frequency":"Once a week",
+      "runtime":"25 - 40 mins, regularly ~30 mins"
+   },
+   {
+      "id":99,
+      "name":"Coder Radio",
+      "link":"http://coder.show",
+      "rss_feed":"http://feeds.feedburner.com/coderradiomp3",
+      "description":"A weekly talk show taking a pragmatic look at the art and business of Software Development and related technologies.",
+      "hosts":[
+         {
+            "name":"Chris Fisher"
+         },
+         {
+            "name":"Michael Dominick"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"35 - 75 mins, regularly ~55 mins"
+   },
+   {
+      "id":100,
+      "name":"Coding Blocks",
+      "link":"https://www.codingblocks.net/category/podcast/",
+      "rss_feed":"https://www.codingblocks.net/feed/podcast/",
+      "description":"Software Design Patterns, Architecture, and Best Practices.",
+      "hosts":[
+         {
+            "name":"Allen Underwood"
+         },
+         {
+            "name":"Michael Outlaw"
+         },
+         {
+            "name":"Joe Zack"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Twice a month",
+      "runtime":"65 - 150 mins, regularly ~120 mins"
+   },
+   {
+      "id":101,
+      "name":"#codepunk",
+      "link":"https://codepunk.io/tag/podcast/",
+      "rss_feed":"https://codepunk.io/rss.xml",
+      "description":"A cyberculture and futurist podcast from Bill Ahern and Michael Szul that looks at the intersection of programming, advancing technology, and society.",
+      "hosts":[
+         {
+            "name":"Bill Ahern"
+         },
+         {
+            "name":"Michael Szul"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Twice a month",
+      "runtime":"30 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":102,
+      "name":"Complete Developer Podcast",
+      "link":"http://completedeveloperpodcast.com",
+      "rss_feed":"http://completedeveloperpodcast.com/feed/podcast/",
+      "description":"Listen to a senior developer and a junior developer discuss topics about all aspects of software development from the highly technical, to patterns and principles, to soft skills.",
+      "hosts":[
+         {
+            "name":"Will Gant"
+         },
+         {
+            "name":"BJ Burns"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Every Thursday",
+      "runtime":"40 - 65 mins, regularly ~60 mins"
+   },
+   {
+      "id":103,
+      "name":"Command Line Heroes",
+      "link":"https://www.redhat.com/en/command-line-heroes",
+      "rss_feed":"https://feeds.simplecast.com/54nAGcIl",
+      "description":"Command Line Heroes tells the epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.",
+      "hosts":[
+         {
+            "name":"Saron Yitbarek"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Twice a month",
+      "runtime":"25 - 30 mins, regularly ~30 mins"
+   },
+   {
+      "id":104,
+      "name":"The Cynical Developer",
+      "link":"https://cynicaldeveloper.com/",
+      "rss_feed":"https://cynicaldeveloper.com/feed/podcast",
+      "description":"The UK based, podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.",
+      "hosts":[
+         {
+            "name":"James Studdart"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"10 - 55 mins, regularly ~40 mins"
+   },
+   {
+      "id":105,
+      "name":"The Dev Questions Podcast with Tim Corey",
+      "link":"https://iamtimcorey.buzzsprout.com",
+      "rss_feed":"https://feeds.buzzsprout.com/1183862.rss",
+      "description":"In each episode, senior Microsoft MVP developer Tim Corey answers one question coming from some other developers about software engineering topics.",
+      "hosts":[
+         {
+            "name":"Tim Corey"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"10 - 25 mins, regularly ~15 mins"
+   },
+   {
+      "id":106,
+      "name":"Developer Melange",
+      "link":"https://developermelange.github.io",
+      "rss_feed":"https://anchor.fm/s/92dbf8c/podcast/rss",
+      "description":"A monthly podcast which brings to you regular discussions about software engineering topics. All of them, in one way or another, related to building great software products.",
+      "hosts":[
+         {
+            "name":"Paul Rohorzka"
+         },
+         {
+            "name":"David Leitner"
+         },
+         {
+            "name":"Christian Haas"
+         },
+         {
+            "name":"Peter Kofler"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Every first of the month",
+      "runtime":"45 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":107,
+      "name":"Developer On Fire",
+      "link":"http://developeronfire.com/episodes",
+      "rss_feed":"https://developeronfire.com/rss.xml",
+      "description":"Inspiring software developers tell their stories.",
+      "hosts":[
+         {
+            "name":"Dave Rael"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once or twice a week",
+      "runtime":"40 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":108,
+      "name":"Developer Tea",
+      "link":"https://spec.fm/podcasts/developer-tea",
+      "rss_feed":"https://feeds.simplecast.com/dLRotFGk",
+      "description":"Podcast to help driven developers connect with their ultimate purpose and excel at their work so that they can positively impact the people they influence.",
+      "hosts":[
+         {
+            "name":"Jonathan Cutrell"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Every Monday, Wednesday and Friday",
+      "runtime":"10 - 50 mins, regularly ~20 mins"
+   },
+   {
+      "id":109,
+      "name":"Docplanner Tech Talks",
+      "link":"https://anchor.fm/docplanner-tech-talks",
+      "rss_feed":"https://anchor.fm/s/2e0fff2c/podcast/rss",
+      "description":"Welcome to our Docplanner Tech Talks - podcast, which is our way to share knowledge and become closer to the Tech community.",
+      "hosts":[
+         {
+            "name":"Przemysław Paczoski"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a month",
+      "runtime":"15 - 30 mins, regularly ~20 mins"
+   },
+   {
+      "id":110,
+      "name":"Eat Sleep Code",
+      "link":"https://developer.telerik.com/community/eat-sleep-code/",
+      "rss_feed":"",
+      "description":"The Official Telerik Podcast. They interview \"passionate people about a wide range of developer related topics.\"",
+      "hosts":[
+         
+      ],
+      "category":"Agile",
+      "frequency":"Once a month",
+      "runtime":"45 - 55 mins, regularly ~47 mins"
+   },
+   {
+      "id":111,
+      "name":"Embedded FM",
+      "link":"https://www.embedded.fm/",
+      "rss_feed":"https://embedded.fm/episodes?format=rss",
+      "description":"Interviews and discussions related to embedded software.",
+      "hosts":[
+         {
+            "name":"Elecia White"
+         },
+         {
+            "name":"Christopher White"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"45 - 80 mins, regularly ~65 mins"
+   },
+   {
+      "id":112,
+      "name":"Five Nines of Downtime",
+      "link":"https://soundcloud.com/fiveninesofdowntime",
+      "rss_feed":"https://feeds.soundcloud.com/users/soundcloud:users:317550504/sounds.rss",
+      "description":"Enterprise software development, distributed systems and whatever our guests find interesting.",
+      "hosts":[
+         
+      ],
+      "category":"Agile",
+      "frequency":"Once every Thursday",
+      "runtime":"55 - 70 mins, regularly ~60 mins"
+   },
+   {
+      "id":112,
+      "name":"FLOSS Weekly",
+      "link":"https://twit.tv/shows/floss-weekly",
+      "rss_feed":"https://feeds.twit.tv/floss.xml",
+      "description":"Interviews with members of the Open Source and Free Software community.",
+      "host":[
+         {
+            "name":"Randal Schwartz"
+         },
+         {
+            "name":"Aaron Newcomb"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Once a week",
+      "runtime":"45 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":113,
+      "name":"The freeCodeCamp Podcast",
+      "link":"https://freecodecamp.libsyn.com/",
+      "rss_feed":"https://freecodecamp.libsyn.com/rss",
+      "description":"The official podcast of the freeCodeCamp.org community. Learn to code for free with millions of other people. Featuring interviews with developers from around the world, most of whom took nontraditional paths into tech.",
+      "host":[
+         
+      ],
+      "category":"Agile",
+      "frequency":"A new episode every Monday during seasons",
+      "runtime":"10 - 110 minutes, varies"
+   },
+   {
+      "id":114,
+      "name":"Generative Art - The Podcast",
+      "link":"https://generativeartistry.com/episodes/",
+      "rss_feed":"https://generativeartistry.com/index.xml",
+      "description":"Tim and Ruth talk all things generative art and creative code!",
+      "host":[
+         {
+            "name":"Ruth John"
+         },
+         {
+            "name":"Tim Holman"
+         }
+      ],
+      "category":"Agile",
+      "frequency":"Varies",
+      "runtime":"35 - 50 mins, regularly ~40 mins"
+   },
+   {
+      "id":115,
+      "name":"Giant Robots Smashing Into Other Giant Robots",
+      "link":"http://giantrobots.fm/episodes",
+      "rss_feed":"https://feeds.fireside.fm/giantrobots/rss",
+      "description":"Podcast discussing the design, development, and business of great software with a rotating cast of fellow developers, designers, and entrepreneurs.",
+      "host":[
+         {
+            "name":"Ben Orenstein"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"25 - 50 mins, regularly ~40 mins"
+   },
+   {
+      "id":116,
+      "name":"HAK5",
+      "link":"https://www.hak5.org/",
+      "rss_feed":"https://www.hak5.org/feed",
+      "description":"A podcast covering everything from open source software and network infrastructure to penetration testing.",
+      "host":[
+         
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"5 - 30 mins, regularly ~15 mins"
+   },
+   {
+      "id":116,
+      "name":"HanselMinutes",
+      "link":"https://hanselminutes.com/",
+      "rss_url":"https://feeds.simplecast.com/gvtxUiIf",
+      "description":"Anything and everything related to software",
+      "host":[
+         {
+            "name":"Scott Hanselman"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"30 - 40 mins, regularly ~35 mins"
+   },
+   {
+      "id":117,
+      "name":"The InfoQ Podcast",
+      "link":"https://www.infoq.com/the-infoq-podcast",
+      "rss_url":"https://feed.infoq.com/",
+      "description":"Podcasts on technical software topics, interviews with some of the top CTOs, engineers and technology directors.",
+      "host":[
+         {
+            "name":"Charles Humble"
+         },
+         {
+            "name":"Wesley Reisz"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"25 - 45 mins, regularly ~30 mins"
+   },
+   {
+      "id":118,
+      "name":"Kernel Panic",
+      "link":"https://www.kernelpanicpodcast.com",
+      "rss_feed":"",
+      "description":"Educational podcast where tech topics are discussed by IT veterans.",
+      "host":[
+         {
+            "name":"David Cohen"
+         },
+         {
+            "name":"Jeff Morski"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Approximately once a week",
+      "runtime":"35 - 75 mins, regularly ~50 mins"
+   },
+   {
+      "id":119,
+      "name":"Legacy Code Rocks",
+      "link":"https://www.legacycode.rocks/",
+      "rss_feed":"https://feeds.libsyn.com/82186/rss",
+      "description":"Legacy Code Rocks explores the world of modernizing existing software applications. Hosts Andrea Goulet and M. Scott Ford of Corgibytes are out to change the way you think about legacy code. If you’re like a lot of people, when you hear the words “legacy code” it conjures up images of big mainframes and archaic punch card machines. While that’s true — it only tells a small part of the story. The truth is, the code you leave behind is your legacy, so let's make it a good one.",
+      "host":[
+         {
+            "name":"Andrea Goulet"
+         },
+         {
+            "name":"M. Scott Ford"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Approximately once a month",
+      "runtime":"30 - 70 mins, regularly ~45 mins"
+   },
+   {
+      "id":120,
+      "name":"The Manifest",
+      "link":"https://manifest.fm/",
+      "rss_feed":"https://manifest.fm/episodes?format=rss",
+      "description":"A podcast all about package management. Each episode is a conversation with someone from the world of package management, covering how they got into the field, the architectural details of their work, and the communities around the tools.",
+      "host":[
+         {
+            "name":"Alex Pounds"
+         },
+         {
+            "name":"Andrew Nesbitt"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Sporadic, but no more than once a fortnight.",
+      "runtime":"50 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":121,
+      "name":"Modern Web",
+      "link":"https://modernweb.podbean.com/",
+      "rss_feed":"https://modernweb.podbean.com/feed.xml",
+      "description":"Modern Web is a podcast that covers the latest news on topics such as EmberJS, ReactJS, AngularJS, ES2015, RxJS, Functional Reactive Programming, and more.",
+      "host":[
+         
+      ],
+      "category":"Software",
+      "frequency":"2/3 episodes per month",
+      "runtime":"20 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":122,
+      "name":"The MousePaw'dCast",
+      "link":"https://mousepawmedia.com/news/podcast",
+      "rss_feed":"https://mousepawmedia.com/rss/mousepawdcast.xml",
+      "description":"The official podcast of MousePaw Media, discussing game development, open source programming, and education.",
+      "host":[
+         {
+            "name":"David Cohen"
+         },
+         {
+            "name":"Jeff Morski"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a month",
+      "runtime":"40 - 70 mins, regularly ~65 mins"
+   },
+   {
+      "id":123,
+      "name":"MS Dev Show",
+      "link":"https://msdevshow.com/",
+      "rss_feed":"https://msdevshow.libsyn.com/rss",
+      "description":"A podcast for developers covering topics such as Azure/cloud, .NET, Visual Studio, Node.js, ML/AI and more! Hosted by Jason Young and Carl Schweitzer.",
+      "host":[
+         {
+            "name":"Jason Young"
+         },
+         {
+            "name":"Carl Schweitzer"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"30 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":124,
+      "name":"Namespace Podcast",
+      "link":"https://www.buzzsprout.com/856720",
+      "rss_feed":"https://feeds.buzzsprout.com/856720.rss",
+      "description":"Jordan Cahill and Derek Drummond, programmers, pundits, prophets, pretenders diagnose the current state of software development by injecting a dose of science and engineering to an otherwise chaotic industry.",
+      "host":[
+         {
+            "name":"Jordan Cahill"
+         },
+         {
+            "name":"Derek Drummond"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Various, but at least twice a month.",
+      "runtime":"30-60 minutes"
+   },
+   {
+      "id":125,
+      "name":"The New Stack",
+      "link":"https://thenewstack.io/podcasts/",
+      "rss_feed":"https://feeds.simplecast.com/IgzWks06",
+      "description":"Analysis and explanations about application development and management at scale. Roundtable discussion with technologists, analysts and journalists, interviews with practitioners, demonstrations of software and services.",
+      "host":[
+         {
+            "name":"Alex Williams"
+         },
+         {
+            "name":"Joab Jackson"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Various",
+      "runtime":"around 20 minutes"
+   },
+   {
+      "id":126,
+      "name":"Productivity in Tech",
+      "link":"https://feeds.transistor.fm/productivity-in-tech-podcast",
+      "rss_feed":"",
+      "description":"This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.",
+      "hosts":[
+         {
+            "name":"K Jay Miller"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"around 30 minutes"
+   },
+   {
+      "id":127,
+      "name":"Programming",
+      "link":"https://podcast.mgechev.com",
+      "rss_feed":"https://feeds.soundcloud.com/users/soundcloud:users:760338451/sounds.rss",
+      "description":"Learn about practical computer science concepts in a brief and accessible way. Excellent for coding interview preparation as well as for growing as a software engineer.",
+      "hosts":[
+         {
+            "name":"Minko Gechev"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"10 - 20 mins, regularly ~10 mins"
+   },
+   {
+      "id":128,
+      "name":"Programming and Performance with Cliff Click",
+      "link":"http://cliffc.org/blog/",
+      "rss_feed":"https://itunes.apple.com/us/podcast/programming-and-performance-with-cliff-click/id1286422919",
+      "description":"Various issues with Programming, Programmers, and Computer Performance.",
+      "hosts":[
+         {
+            "name":"Cliff Click"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"10 - 30 mins, regularly ~20 mins"
+   },
+   {
+      "id":129,
+      "name":"Programming Throwdown",
+      "link":"http://www.programmingthrowdown.com/",
+      "rss_feed":"https://feeds.transistor.fm/programming-throwdown",
+      "description":"Anything and everything related to software",
+      "hosts":[
+         {
+            "name":"Patrick Wheeler"
+         },
+         {
+            "name":"Jason Gauci"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a month",
+      "runtime":"50 - 90 mins, regularly ~70 mins"
+   },
+   {
+      "id":130,
+      "name":"The Rabbit Hole",
+      "link":"http://therabbithole.libsyn.com/",
+      "rss_feed":"https://feeds.libsyn.com/96306/rss",
+      "description":"Welcome to The Rabbit Hole, the definitive developers' podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.",
+      "hosts":[
+         {
+            "name":"Dave Anderson"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"15 - 45 mins, regularly ~25 mins"
+   },
+   {
+      "id":131,
+      "name":"The raywenderlich Podcast",
+      "link":"https://www.raywenderlich.com/rwpodcast",
+      "rss_feed":"https://www.raywenderlich.com/feed/podcast",
+      "description":"discuss every aspect of app development. Primarily focusing on Apple technology.",
+      "hosts":[
+         {
+            "name":"Dru Freeman"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a month",
+      "runtime":"15 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":132,
+      "name":"Relative Paths",
+      "link":"https://relativepaths.uk/",
+      "rss_feed":"https://itunes.apple.com/gb/podcast/relative-paths-web-development/id914858338?mt=2&ign-mpt=uo%3D4",
+      "description":"A podcast about web design, web development, music, and that kind of thing. With Ben Hutchings and Mark Phoenix.",
+      "hosts":[
+         {
+            "name":"Ben Hutchings"
+         },
+         {
+            "name":"Mark Phoenix"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Approximately once a month",
+      "runtime":"35 - 80 mins, regularly ~50 mins"
+   },
+   {
+      "id":133,
+      "name":"Request For Commits",
+      "link":"https://changelog.com/rfc",
+      "rss_feed":"https://changelog.com/rfc/feed",
+      "description":"Request For Commits explores different perspectives in open source sustainability. Hosts Nadia Eghbal and Mikeal Rogers dive deep into the trials and tribulations of being an open source maintainer, building communities, and navigating the business side of software. Common topics include software licensing, copyright, documentation, governance models, funding platforms such as Open Collective, Kickstarter, etc., measuring success, and more.",
+      "hosts":[
+         {
+            "name":"Nadia Eghbal"
+         },
+         {
+            "name":"Mikeal Rogers"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Approximately twice a month",
+      "runtime":"40 - 80 mins, regularly ~60 mins"
+   },
+   {
+      "id":134,
+      "name":"Software Defined Talk",
+      "link":"https://www.softwaredefinedtalk.com/",
+      "rss_feed":"https://feeds.fireside.fm/sdt/rss",
+      "description":"Kubernetes, serverless, cloud, DevOps, & coding. Get the lazy WTF each week, mostly.",
+      "hosts":[
+         {
+            "name":"Brandon Whichard"
+         },
+         {
+            "name":"Matt Ray"
+         },
+         {
+            "name":"Coté"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Every Friday",
+      "runtime":"About an hour"
+   },
+   {
+      "id":135,
+      "name":"Software Engineering Daily",
+      "link":"https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/",
+      "rss_feed":"https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/feed/",
+      "description":"Podcasts on technical software topics",
+      "hosts":[
+         {
+            "name":"Jeff Meyerson"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Multiple episodes every week",
+      "runtime":"45 - 80 mins, regularly ~55 mins"
+   },
+   {
+      "id":136,
+      "name":"Software Engineering Radio",
+      "link":"http://www.se-radio.net/",
+      "rss_feed":"http://feeds.feedburner.com/se-radio",
+      "description":"Targeted at the professional software developer, aiming to be a lasting educational resource, not a newscast. Talks from experts from the software engineering world about the full range of topics that matter to professional developers.",
+      "hosts":[
+         
+      ],
+      "category":"Software",
+      "frequency":"Three to four times a month",
+      "runtime":"45 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":137,
+      "name":"Soft Skills Engineering",
+      "link":"https://softskills.audio/",
+      "rss_feed":"https://feeds.feedburner.com/SoftSkillsEngineering",
+      "description":"It takes more than great code to be a great engineer. Soft Skills Engineering is a weekly question and answer podcast where software developer hosts answer questions about all of the non-technical things that go along with being a software developer.",
+      "hosts":[
+         {
+            "name":"Dave Smith"
+         },
+         {
+            "name":"Jamison Dance"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"25 - 45 mins, regularly ~30 mins"
+   },
+   {
+      "id":138,
+      "name":"The Stack Overflow Podcast",
+      "link":"https://stackoverflow.blog/podcasts/",
+      "rss_feed":"https://stackoverflow.blog/podcasts/?feed=podcast",
+      "description":"The Stack Overflow Podcast lets you listen in on what’s new with the world’s largest developer community.",
+      "hosts":[
+         {
+            "name":"Joel Spolsky"
+         },
+         {
+            "name":"Jay Hanlon"
+         },
+         {
+            "name":"David Fullerton"
+         },
+         {
+            "name":"Ilana Yitzhaki"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"50 - 80 mins, regularly ~65 mins"
+   },
+   {
+      "id":139,
+      "name":"The Standup",
+      "link":"http://www.standup.fm/",
+      "rss_feed":"https://thestandup.show/rss",
+      "description":"A podcast that delves into the obstacles and successes involved in creating, running, and sustaining successful software side projects.",
+      "hosts":[
+         {
+            "name":"Jamie Wright"
+         },
+         {
+            "name":"Keith Thompson"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Twice a month",
+      "runtime":"20 - 35 mins, regularly ~25 mins"
+   },
+   {
+      "id":140,
+      "name":"The Tech Guy",
+      "link":"https://techguylabs.com/episodes",
+      "rss_feed":"https://feeds.twit.tv/kfi.xml",
+      "description":"Tech radio-journalist, Leo Laporte explains everything tech from computers to the internet. This is a great podcast for anyone who wants to gain a high-level understanding of everyday technology.",
+      "hosts":[
+         {
+            "name":"Leo Laporte"
+         }
+      ],
+      "category":"Tech",
+      "frequency":"Twice a week",
+      "runtime":"110 - 135 mins, regularly ~120 mins"
+   },
+   {
+      "id":141,
+      "name":"Tech Stuff",
+      "link":"https://www.techstuffpodcast.com/podcasts",
+      "rss_feed":"https://www.techstuffpodcast.com/podcast/feed/",
+      "description":"TechStuff is a top technology podcast from HowStuffWorks. It tackles topics ranging from basic electronics, 5G, WebAuthn to the Large Hadron Collider and everything in between.",
+      "hosts":[
+         {
+            "name":"Jonathan Strickland"
+         }
+      ],
+      "category":"Tech",
+      "frequency":"Thrice a week",
+      "runtime":"25 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":142,
+      "name":"ThoughtWorks Podcasts",
+      "link":"https://www.thoughtworks.com/podcasts",
+      "rss_feed":"https://thoughtworks.libsyn.com/rss",
+      "description":"The ThoughtWorks podcast plunges deep into the latest tech topics that have captured our imagination. Join our panel of senior technologists to explore the most important trends in tech today, get frontline insights into our work developing cutting-edge tech and hear more about how today’s tech megatrends will impact you.",
+      "hosts":[
+         {
+            "name":"Dr Rebecca Parsons"
+         },
+         {
+            "name":"Mike Mason"
+         },
+         {
+            "name":"Neal Ford"
+         },
+         {
+            "name":"Zhamak Dehghani"
+         },
+         {
+            "name":"Alexey Bôas"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Various",
+      "runtime":"6 - 70 mins, regularly ~25 mins"
+   },
+   {
+      "id":143,
+      "name":"Toolsday",
+      "link":"https://spec.fm/podcasts/toolsday",
+      "rss_feed":"https://simplecast.com/podcasts/279/rss",
+      "description":"The latest in tech tools, tips, and tricks on Tuesdays at 2! (Our all game is so strong).",
+      "hosts":[
+         
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"20 - 35 mins, regularly ~25 mins"
+   },
+   {
+      "id":144,
+      "name":"Weekly Dev Tips",
+      "link":"http://weeklydevtips.com",
+      "rss_feed":"https://feeds.simplecast.com/W8bGHhCA",
+      "description":"Short (5-10 min) episodes covering a single practical developer tip.",
+      "hosts":[
+         {
+            "name":"Steve Smith"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week (roughly)",
+      "runtime":"5 - 10 mins, regularly ~5 mins"
+   },
+   {
+      "id":145,
+      "name":"While True Talk",
+      "link":"https://whiletruetalk.fm/",
+      "rss_feed":"https://whiletruetalk.fm/feed.xml",
+      "description":"Two friends who've been coding professionally for a decade discuss what they've learned in the years since they went 'pro'!",
+      "hosts":[
+         {
+            "name":"Jas Rajasansir"
+         },
+         {
+            "name":"Richard Gill"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a fortnight (roughly)",
+      "runtime":"1 - 2 hours, regularly ~1.5 hours"
+   },
+   {
+      "id":146,
+      "name":"The Women in Tech Show",
+      "link":"https://thewomenintechshow.com",
+      "rss_feed":"https://thewomenintechshow.com/episodes?format=rss",
+      "description":"Technical interviews with prominent women in tech.",
+      "hosts":[
+         {
+            "name":"Edaena Salinas"
+         }
+      ],
+      "category":"Software",
+      "frequency":"Once a week",
+      "runtime":"20 - 55 mins, regularly ~30 mins"
+   },
+   {
+      "id":147,
+      "name":"The .NET Core Podcast",
+      "link":"https://dotnetcore.show/",
+      "rss_feed":"https://dotnetcore.show/rss",
+      "description":"The only podcast devoted podcast which is devoted to. NET Core; ASP.NET Core; EF Core; SignalR; and not forgetting The .NET Core community, itself.",
+      "hosts":[
+         {
+            "name":"Jamie Taylor"
+         }
+      ],
+      "category":".NET",
+      "frequency":"Once a fortnight",
+      "runtime":"30 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":148,
+      "name":"All things git",
+      "link":"https://www.allthingsgit.com",
+      "rss_feed":"https://www.allthingsgit.com/feed.xml",
+      "description":"Interviews with people who build Git, who create tools for it and who teach people how to use it.",
+      "hosts":[
+         {
+            "name":"Edward Thomson"
+         },
+         {
+            "name":"Martin Woodward"
+         }
+      ],
+      "category":"",
+      "frequency":"Every two weeks",
+      "runtime":"35 - 55 mins, regularly ~45 mins"
+   },
+   {
+      "id":149,
+      "name":"GitMinutes",
+      "link":"https://www.gitminutes.com/",
+      "rss_feed":"https://feeds.feedburner.com/GitMinutes",
+      "description":"A podcast made by Thomas Ferris Nicolaisen for proficient Git users that features stories, discussions, ideas, demos and other things useful for those using Git today.",
+      "hosts":[
+         {
+            "name":"Thomas Ferris Nicolaisen"
+         }
+      ],
+      "category":"",
+      "frequency":"Podcast ended in 2017.",
+      "runtime":"20 - 90 mins, regularly ~65 mins"
+   },
+   {
+      "id":150,
+      "name":"Go Time",
+      "link":"https://changelog.com/gotime",
+      "rss_feed":"https://changelog.com/gotime/feed",
+      "description":"A panel of Go experts and special guests discuss the Go programming language, the community, and everything in between.",
+      "hosts":[
+         
+      ],
+      "category":"Go Programming Language",
+      "frequency":"Once a week",
+      "runtime":"45 - 80 mins, regularly ~70 mins"
+   },
+   {
+      "id":151,
+      "name":"Go Gab",
+      "link":"https://www.briefs.fm/go-gab",
+      "rss_feed":"https://www.briefs.fm/go-gab/rss",
+      "description":"Hosted by Nick Cox. A podcast about everything Go. We'll explore syntax, new libraries, its concurrency model, and what makes it unique. Anything Go-related is on the table!",
+      "hosts":[
+         {
+            "name":"Nick Cox"
+         }
+      ],
+      "category":"Go Programming Language",
+      "frequency":"Once a week",
+      "runtime":"2 - 5 mins, regularly ~3 mins"
+   },
+   {
+      "id":152,
+      "name":"Groovy Podcast",
+      "link":"https://groovypodcast.podbean.com",
+      "rss_feed":"https://groovypodcast.podbean.com/feed.xml",
+      "description":"A podcast dedicated to the Groovy programming language and its ecosystem.",
+      "hosts":[
+         {
+            "name":"Kenneth Kousen"
+         },
+         {
+            "name":"Baruch Sadogursky"
+         }
+      ],
+      "category":"Groovy",
+      "frequency":"Approximately once a month",
+      "runtime":"20 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":153,
+      "name":"Inside iOS Dev",
+      "link":"https://insideiosdev.com/",
+      "rss_feed":"https://insideiosdev.com/feed.xml",
+      "description":"A weekly show about real-world iOS development for professional iOS developers.",
+      "hosts":[
+         {
+            "name":"Alex Bush"
+         },
+         {
+            "name":"Andrew Rohn"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a month",
+      "runtime":"15 - 50 mins, regularly ~30 mins"
+   },
+   {
+      "id":154,
+      "name":"iOS Dev Break with Evan K. Stone – iOS and Swift Development News, Tips, and Advice",
+      "link":"https://iosdevbreak.com/",
+      "rss_feed":"https://iosdevbreak.com/feed.xml",
+      "description":"15 minutes of current events, tips, and advice for iOS Developers including, but not limited to, discussions of Swift, iOS, watchOS, and tvOS development.",
+      "hosts":[
+         {
+            "name":"Evan K. Stone"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a quarter",
+      "runtime":"15 - 20 mins, regularly ~15 mins"
+   },
+   {
+      "id":155,
+      "name":"iOS Dev Discussions - Sean Allen",
+      "link":"https://anchor.fm/seanallen/support",
+      "rss_feed":"https://anchor.fm/s/1d7bd9c/podcast/rss",
+      "description":"Discussing the world of iOS Development and the latest news in Swift.",
+      "hosts":[
+         {
+            "name":"Sean Allen"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a week",
+      "runtime":"15 - 90 mins, regularly ~20 mins"
+   },
+   {
+      "id":156,
+      "name":"iPhreaks",
+      "link":"https://devchat.tv/iphreaks",
+      "rss_feed":"https://feeds.feedwrench.com/iPhreaks.rss",
+      "description":"Weekly panel discussion podcast about all things iOS programming.",
+      "hosts":[
+         
+      ],
+      "category":"iOS",
+      "frequency":"Once a week",
+      "runtime":"30 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":157,
+      "name":"More Than Just Code",
+      "link":"http://mtjc.fm/",
+      "rss_feed":"http://mtjc.fm/feed/podcast/",
+      "description":"A show about mobile development (& for those of you driving at home.)",
+      "hosts":[
+         {
+            "name":"Jaime Lopez"
+         },
+         {
+            "name":"Mark Rubin"
+         },
+         {
+            "name":"Tim Mitra"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a week",
+      "runtime":"45 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":158,
+      "name":"Stacktrace",
+      "link":"https://stacktracepodcast.fm",
+      "rss_feed":"https://stacktracepodcast.fm/rss",
+      "description":"Apple news & rumors from a developers perspective.",
+      "hosts":[
+         {
+            "name":"John Sundell"
+         },
+         {
+            "name":"Guilherme Rambo"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a week",
+      "runtime":"60 - 90 mins, regularly ~75 mins"
+   },
+   {
+      "id":159,
+      "name":"Under the Radar",
+      "link":"https://www.relay.fm/radar",
+      "rss_feed":"https://www.relay.fm/radar/feed",
+      "description":"From development and design to marketing and support, Under the Radar is all about independent app development.",
+      "hosts":[
+         {
+            "name":"Marco Arment"
+         },
+         {
+            "name":"David Smith"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once every 2 weeks",
+      "runtime":"25 - 30 mins, regularly ~28 mins"
+   },
+   {
+      "id":160,
+      "name":"Waiting for Review",
+      "link":"https://waitingforreview.com/",
+      "rss_feed":"https://waitingforreview.com/feed.xml",
+      "description":"A weekly podcast that follows the journeys of two iOS developers.",
+      "hosts":[
+         {
+            "name":"Dave Nott"
+         },
+         {
+            "name":"Dave Wood"
+         }
+      ],
+      "category":"iOS",
+      "frequency":"Once a week",
+      "runtime":"20 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":161,
+      "name":"Bet on the Web",
+      "link":"https://betontheweb.ionicframework.com",
+      "rss_feed":"https://feeds.fireside.fm/betontheweb/rss",
+      "description":"Chat from the core Ionic team about a variety of topics through the lens of the Open Web.",
+      "hosts":[
+         {
+            "name":"Matt Netkow"
+         },
+         {
+            "name":"Mike Hartington"
+         }
+      ],
+      "category":"Ionic",
+      "frequency":"Varies",
+      "runtime":"15 - 40 mins, regularly ~40 mins"
+   },
+   {
+      "id":162,
+      "name":"Ionic Tips Weekly and Tutorials",
+      "link":"https://www.youtube.com/user/LittlejTFS",
+      "rss_feed":"",
+      "description":"Tutorials and weekly tips and tricks on Ionic and its ecosystem.",
+      "hosts":[
+         {
+            "name":"Joshua Morony"
+         }
+      ],
+      "category":"Ionic",
+      "frequency":"Once a week",
+      "runtime":"5 - 30 mins, Tips Weekly regularly ~5 mins, Tutorials regularly ~30 mins"
+   },
+   {
+      "id":163,
+      "name":"Learn Ionic",
+      "link":"https://www.youtube.com/user/saimon1924",
+      "rss_feed":"",
+      "description":"A Youtube channel for awesome coding videos on Ionic and learn to build your own cross platform apps.",
+      "hosts":[
+         {
+            "name":"Simon Grimm"
+         }
+      ],
+      "category":"Ionic",
+      "frequency":"Varies",
+      "runtime":"10 - 40 mins, regularly ~15 mins"
+   },
+   {
+      "id":164,
+      "name":"A Bootiful Podcast",
+      "link":"https://soundcloud.com/a-bootiful-podcast",
+      "rss_feed":"",
+      "description":"podcast covering Spring Boot and general Java world.",
+      "hosts":[
+         {
+            "name":"Josh Long"
+         }
+      ],
+      "category":"Java",
+      "frequency":"Approximately once a week",
+      "runtime":"50 - 100 mins, regularly ~70 mins"
+   },
+   {
+      "id":165,
+      "name":"Enterprise Java Newscast",
+      "link":"http://www.enterprisejavanews.com",
+      "rss_feed":"",
+      "description":"covers the latest headlines in the world of enterprise software development.",
+      "hosts":[
+         {
+            "name":"Kito D. Mann"
+         },
+         {
+            "name":"Ian Hlavats"
+         },
+         {
+            "name":"Daniel Hinojosa"
+         }
+      ],
+      "category":"Java",
+      "frequency":"Approximately once a month",
+      "runtime":"50 - 105 mins, regularly ~70 mins"
+   },
+   {
+      "id":166,
+      "name":"Java Pub House",
+      "link":"http://www.javapubhouse.com",
+      "rss_feed":"",
+      "description":"podcast talks about how to program in Java.",
+      "hosts":[
+         {
+            "name":"Freddy Guime"
+         },
+         {
+            "name":"Bob Paulin"
+         }
+      ],
+      "category":"Java",
+      "frequency":"Approximately once a month",
+      "runtime":"25 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":167,
+      "name":"iteration",
+      "link":"http://www.iterationpodcast.com/",
+      "rss_feed":"",
+      "description":"A weekly podcast about development and design through the lens of amazing books, chapter-by-chapter. We do our best to be code-agnostic, but we talk a lot about Rails, JavaScript, React, React Native, design, business and startups.",
+      "hosts":[
+         {
+            "name":"John Jacob"
+         },
+         {
+            "name":"JP"
+         }
+      ],
+      "category":"JavaScript",
+      "frequency":"Once a week",
+      "runtime":"30 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":168,
+      "name":"Javascript Jabber",
+      "link":"https://devchat.tv/js-jabber",
+      "rss_feed":"https://feeds.feedwrench.com/JavaScriptJabber.rss",
+      "description":"A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.",
+      "hosts":[
+         {
+            "name":"Charles Max Wood"
+         }
+      ],
+      "category":"JavaScript",
+      "frequency":"Once a week",
+      "runtime":"20 - 65 mins, regularly ~50 mins"
+   },
+   {
+      "id":169,
+      "name":"JavaScript Air",
+      "link":"https://javascriptair.com/",
+      "rss_feed":"",
+      "description":"The live broadcast podcast all about JavaScript. The episodes run over Hangouts on Air live and get uploaded to YouTube and an audio podcast afterward. Topics include all things around JavaScript and Web Development.",
+      "hosts":[
+         {
+            "name":"Kent C. Dodds"
+         }
+      ],
+      "category":"JavaScript",
+      "frequency":"Once a week",
+      "runtime":"30 - 70 mins, regularly ~60 mins"
+   },
+   {
+      "id":170,
+      "name":"JS Party",
+      "link":"https://changelog.com/jsparty",
+      "rss_feed":"",
+      "description":"A community celebration of JavaScript and the web.",
+      "hosts":[
+         
+      ],
+      "category":"JavaScript",
+      "frequency":"Once a week",
+      "runtime":"30 - 70 mins, regularly ~55 mins"
+   },
+   {
+      "id":171,
+      "name":"Real Talk JavaScript",
+      "link":"https://realtalkjavascript.simplecast.fm/",
+      "rss_feed":"",
+      "description":"A weekly podcast where we tackle the challenges facing Web developers today and invite expert guests on the show to share their experience solving concrete problems while building real Web applications.",
+      "hosts":[
+         {
+            "name":"John Papa"
+         },
+         {
+            "name":"Ward Bell"
+         },
+         {
+            "name":"Dan Wahlin"
+         }
+      ],
+      "category":"JavaScript",
+      "frequency":"Once a week",
+      "runtime":"60 - 90 mins, regularly ~50 mins"
+   },
+   {
+      "id":172,
+      "name":"ScriptCast",
+      "link":"https://scriptconf.org/",
+      "rss_feed":"",
+      "description":"A podcast about JavaScript, stories from people who shape the world of JavaScript, hosted by the creators and organisers of ScriptConf.",
+      "hosts":[
+         
+      ],
+      "category":"JavaScript",
+      "frequency":"Varies",
+      "runtime":"25 - 50 mins, regularly ~40 mins"
+   },
+   {
+      "id":173,
+      "name":"Adventures in Angular",
+      "link":"https://devchat.tv/adv-in-angular",
+      "rss_feed":"",
+      "description":"Developments in the Angular community, tools, techniques, and ecosystem.",
+      "hosts":[
+         
+      ],
+      "category":"Angular",
+      "frequency":"Once a week",
+      "runtime":"25 - 85 mins, regularly ~50 mins"
+   },
+   {
+      "id":174,
+      "name":"AngularAir",
+      "link":"https://angularair.com/",
+      "rss_feed":"",
+      "description":"All about Angular",
+      "hosts":[
+         
+      ],
+      "category":"Angular",
+      "frequency":"Once a week",
+      "runtime":"35 - 75 mins, regularly ~60 mins"
+   },
+   {
+      "id":175,
+      "name":"EmberMap",
+      "link":"https://embermap.com/podcast",
+      "rss_feed":"",
+      "description":"Join Sam, Ryan and guests to chat about development and design in the world of Ember.js.",
+      "hosts":[
+         {
+            "name":"Sam Selikoff"
+         },
+         {
+            "name":"Ryan Toronto"
+         }
+      ],
+      "category":"Ember",
+      "frequency":"Once a week",
+      "runtime":"35 - 70 mins, regularly ~60 mins"
+   },
+   {
+      "id":176,
+      "name":"NodeUp",
+      "link":"http://nodeup.com/",
+      "rss_feed":"",
+      "description":"Podcast about Node.js",
+      "hosts":[
+         
+      ],
+      "category":"Node.js",
+      "frequency":"Various",
+      "runtime":"20 - 100 mins, regularly ~60 mins"
+   },
+   {
+      "id":177,
+      "name":"5 minutes of React podcast",
+      "link":"https://5minreact.audio/",
+      "rss_feed":"",
+      "description":"Podcast about React hot topics and JavaScript ecosystem.",
+      "hosts":[
+         
+      ],
+      "category":"React.js",
+      "frequency":"Few times in a quarter",
+      "runtime":"2 - 15 mins, regularly ~5 mins"
+   },
+   {
+      "id":178,
+      "name":"React Native Radio",
+      "link":"https://devchat.tv/react-native-radio",
+      "rss_feed":"",
+      "description":"React Native Radio Podcast",
+      "hosts":[
+         
+      ],
+      "category":"React.js",
+      "frequency":"Once a week",
+      "runtime":"25 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":179,
+      "name":"The React podcast",
+      "link":"https://reactpodcast.simplecast.fm",
+      "rss_feed":"",
+      "description":"Interviews and news about React hosted by Michael Jackson.",
+      "hosts":[
+         {
+            "name":"Michael Jackson"
+         },
+         {
+            "name":"Michael Chan"
+         }
+      ],
+      "category":"React.js",
+      "frequency":"Once a week",
+      "runtime":"35 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":180,
+      "name":"React Roundup",
+      "link":"https://devchat.tv/react-round-up/",
+      "rss_feed":"",
+      "description":"Discussions and Interviews about React hosted by Charles Max Wood.",
+      "hosts":[
+         {
+            "name":"Charles Max Wood"
+         }
+      ],
+      "category":"React.js",
+      "frequency":"Once a week",
+      "runtime":"45 - 75 mins, regularly ~60 mins"
+   },
+   {
+      "id":181,
+      "name":"Enjoy the Vue",
+      "link":"https://enjoythevue.io",
+      "rss_feed":"",
+      "description":"Panel discussions and guest interviews to keep you up to date with the Vue community and Vue development practices.",
+      "hosts":[
+         {
+            "name":"Ari Clark"
+         },
+         {
+            "name":"Ben Hong"
+         },
+         {
+            "name":"Chris Fritz"
+         },
+         "Tessa"
+      ],
+      "category":"Vue.js",
+      "frequency":"Once a week",
+      "runtime":"40 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":182,
+      "name":"The Official Vue News",
+      "link":"https://news.vuejs.org/",
+      "rss_feed":"",
+      "description":"We cover the latest Vue news and tutorials in about 5 minutes. Our goal is to give you the information you need to stay on top of your game as a Vue developer.",
+      "hosts":[
+         
+      ],
+      "category":"Vue.js",
+      "frequency":"Once a week",
+      "runtime":"4 - 10 mins, regularly ~5 mins"
+   },
+   {
+      "id":183,
+      "name":"Views on Vue",
+      "link":"https://devchat.tv/views-on-vue/",
+      "rss_feed":"",
+      "description":"Views on Vue",
+      "hosts":[
+         
+      ],
+      "category":"Vue.js",
+      "frequency":"Once a week",
+      "runtime":"25 - 85 mins, regularly ~60 mins"
+   },
+   {
+      "id":184,
+      "name":"Svelte Radio",
+      "link":"https://www.svelteradio.com/",
+      "rss_feed":"",
+      "description":"Svelte Radio is a podcast about Svelte. We (Antony, Shawn, and Kevin) meet up once every two weeks or so and discuss the latest in Svelte. Sometimes we also have interesting guests on.",
+      "hosts":[
+         
+      ],
+      "category":"Svelte",
+      "frequency":"Bi-Weekly",
+      "runtime":"40 - 60 mins, regularly ~50 mins"
+   },
+   {
+      "id":185,
+      "name":"Talking Kotlin",
+      "link":"http://talkingkotlin.com",
+      "rss_feed":"",
+      "description":"Kotlin and more",
+      "hosts":[
+         {
+            "name":"Hadi Hariri"
+         }
+      ],
+      "category":"Kotlin",
+      "frequency":"Approximately once a month",
+      "runtime":"30 - 50 mins, regularly ~35 mins"
+   },
+   {
+      "id":186,
+      "name":"Kubernetes Podcast",
+      "link":"http://kubernetespodcast.com",
+      "rss_feed":"",
+      "description":"The Kubernetes Podcast from Google is a weekly news and interview show with insight from the Kubernetes community. Guests have included project founders, vendor executives, end users, community members, and more.",
+      "hosts":[
+         {
+            "name":"Craig Box"
+         },
+         {
+            "name":"Adam Glick"
+         }
+      ],
+      "category":"Kubernetes",
+      "frequency":"Once a week",
+      "runtime":"15 - 50 mins, regularly ~25 mins"
+   },
+   {
+      "id":187,
+      "name":"Kube Cuddle",
+      "link":"https://podcasts.apple.com/us/podcast/kube-cuddle/id1498571321",
+      "rss_feed":"",
+      "description":"A podcast about Kubernetes, and the people who build and use it.",
+      "hosts":[
+         {
+            "name":"Rich Burroughs"
+         }
+      ],
+      "category":"Kubernetes",
+      "frequency":"Various",
+      "runtime":"60 mins"
+   },
+   {
+      "id":188,
+      "name":"PodCTL",
+      "link":"https://www.podctl.com/",
+      "rss_feed":"",
+      "description":"A podcast focused on Containers, Kubernetes, and Cloud-native application development.",
+      "hosts":[
+         {
+            "name":"Brian Gracely"
+         }
+      ],
+      "category":"Kubernetes",
+      "frequency":"Various",
+      "runtime":"10 - 30 mins"
+   },
+   {
+      "id":189,
+      "name":"Real World Serverless",
+      "link":"https://www.realworldserverless.com",
+      "rss_feed":"",
+      "description":"A podcast where panelists talk about real-world use of Serverless technologies from engineers who work with them day-to-day. They're discussing use cases, why they chose serverless, and the pain points and challenges they face. If you want to know what it's REALLY like to work with serverless, this is the show for you.",
+      "hosts":[
+         {
+            "name":"Yan Cui"
+         }
+      ],
+      "category":"Kubernetes",
+      "frequency":"Weekly",
+      "runtime":"20 - 30 mins"
+   },
+   {
+      "id":190,
+      "name":"The Podlets",
+      "link":"https://thepodlets.io/",
+      "rss_feed":"",
+      "description":"Exploring Cloud Native, one buzzword at a time.",
+      "hosts":[
+         {
+            "name":"Carlisia Campos"
+         },
+         {
+            "name":"Josh Rosso"
+         },
+         {
+            "name":"Duffie Cooley"
+         },
+         {
+            "name":"Bryan Liles"
+         },
+         "Patrick Barker",
+         {
+            "name":"Michael Gasch"
+         },
+         "Olive Power"
+      ],
+      "category":"Kubernetes",
+      "frequency":"Weekly",
+      "runtime":"30 - 60 mins"
+   },
+   {
+      "id":191,
+      "name":"Choose Linux",
+      "link":"https://chooselinux.show/",
+      "rss_feed":"",
+      "description":"Every 2 weeks, Joe, Ell, and Drew talk about what they've discovered in the world of Linux and Open Source.",
+      "hosts":[
+         {
+            "name":"Joe Ressington"
+         },
+         {
+            "name":"Ell Marquez"
+         },
+         {
+            "name":"Drew DeVore"
+         }
+      ],
+      "category":"Linux",
+      "frequency":"Once every 2 weeks",
+      "runtime":"~30 mins"
+   },
+   {
+      "id":192,
+      "name":"Destination Linux",
+      "link":"https://destinationlinux.org/",
+      "rss_feed":"",
+      "description":"Destination Linux is podcast made by 4 people who love using the Linux platform and want to share our passion for Linux with as many people as possible.",
+      "hosts":[
+         
+      ],
+      "category":"Linux",
+      "frequency":"Every Two Weeks",
+      "runtime":"90 - 120 mins"
+   },
+   {
+      "id":193,
+      "name":"Linux Action News",
+      "link":"https://www.jupiterbroadcasting.com/show/linux-action-news/",
+      "rss_feed":"",
+      "description":"Weekly Linux news and analysis by Chris and Joe. The show every week we hope you'll go to when you want to hear an informed discussion about what’s happening in Linux.",
+      "hosts":[
+         
+      ],
+      "category":"Linux",
+      "frequency":"Once a week",
+      "runtime":"20 - 30 mins, regularly 30 mins"
+   },
+   {
+      "id":194,
+      "name":"Linux Headlines",
+      "link":"https://linuxheadlines.show/",
+      "rss_feed":"",
+      "description":"Linux and open source headlines every weekday, in under 3 minutes.",
+      "hosts":[
+         {
+            "name":"Chris Fisher"
+         },
+         {
+            "name":"Wes Payne"
+         },
+         {
+            "name":"Drew DeVore"
+         }
+      ],
+      "category":"Linux",
+      "frequency":"Daily",
+      "runtime":"3 mins or less"
+   },
+   {
+      "id":195,
+      "name":"Late Night Linux",
+      "link":"https://latenightlinux.com/",
+      "rss_feed":"",
+      "description":"Podcast focusing on opinions and Linux news hosted by Joe, Félim, Graham and Will. Knowledgeable insight and commentary keep the show fresh and interesting",
+      "hosts":[
+         
+      ],
+      "category":"Linux",
+      "frequency":"Bi-weekly",
+      "runtime":"45 mins - 1 hour, regularly 1 hour"
+   },
+   {
+      "id":196,
+      "name":"Linux Unplugged",
+      "link":"https://www.jupiterbroadcasting.com/show/linuxun/",
+      "rss_feed":"",
+      "description":"The Linux Action Show with no prep, no limits, and tons of opinion. An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and focuses them into a weekly lifestyle show about Linux.",
+      "hosts":[
+         {
+            "name":"Joe Ressington"
+         },
+         {
+            "name":"Félim Whiteley"
+         },
+         {
+            "name":"Graham Morrison"
+         },
+         {
+            "name":"Will Cooke"
+         }
+      ],
+      "category":"Linux",
+      "frequency":"Once every week",
+      "runtime":"50 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":197,
+      "name":"php[podcast]",
+      "link":"https://www.phparch.com/podcast",
+      "rss_feed":"",
+      "description":"The site for PHP professionals, Magazine, Training, Books, Conferences.",
+      "hosts":[
+         {
+            "name":"Oscar Merida"
+         }
+      ],
+      "category":"PHP",
+      "frequency":"Once or twice every month",
+      "runtime":"35 - 70 mins, regularly ~50 mins"
+   },
+   {
+      "id":198,
+      "name":"The PHP Roundtable",
+      "link":"http://feeds.feedburner.com/PhpRoundtable",
+      "rss_feed":"",
+      "description":"The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source, and anything else PHP nerds care about.",
+      "hosts":[
+         
+      ],
+      "category":"PHP",
+      "frequency":"About once every month.",
+      "runtime":"25 - 120 mins, regularly ~65 mins"
+   },
+   {
+      "id":199,
+      "name":"PHPUgly",
+      "link":"https://phpugly.simplecast.fm/",
+      "rss_feed":"",
+      "description":"The podcast your mother warned you about. Ramblings of a few overworked PHP Developers.",
+      "hosts":[
+         {
+            "name":"Eric Van Johnson"
+         },
+         {
+            "name":"Thomas Rideout"
+         },
+         {
+            "name":"John Congdon"
+         }
+      ],
+      "category":"PHP",
+      "frequency":"Once a week",
+      "runtime":"35 - 80 mins, regularly ~60 mins"
+   },
+   {
+      "id":200,
+      "name":"RunGeekRadio",
+      "link":"https://rungeekradio.com",
+      "rss_feed":"",
+      "description":"Adam Culp talks a few minutes about running, then mostly about something PHP related.",
+      "hosts":[
+         {
+            "name":"Adam Culp"
+         }
+      ],
+      "category":"PHP",
+      "frequency":"Once a month",
+      "runtime":"15 - 20 mins, regularly ~20 mins"
+   },
+   {
+      "id":201,
+      "name":"Sound of Symfony",
+      "link":"http://feed.soundofsymfony.com/rss",
+      "rss_feed":"",
+      "description":"The unofficial Symfony podcast.",
+      "hosts":[
+         
+      ],
+      "category":"PHP",
+      "frequency":"Various",
+      "runtime":"55 - 90 mins, regularly ~65 mins"
+   },
+   {
+      "id":202,
+      "name":"That Podcast",
+      "link":"https://thatpodcast.io",
+      "rss_feed":"",
+      "description":"Beau and Dave talking about life as dads, programmers, and entrepreneurs.",
+      "hosts":[
+         {
+            "name":"Beau Simensen"
+         },
+         {
+            "name":"Dave Marshall"
+         }
+      ],
+      "category":"PHP",
+      "frequency":"Once a week.",
+      "runtime":"55 - 90 mins, regularly ~65 mins"
+   },
+   {
+      "id":203,
+      "name":"Voices of the ElePHPant",
+      "link":"https://voicesoftheelephpant.com/feed/podcast/",
+      "rss_feed":"",
+      "description":"Interviews with the people that are making the PHP community special.",
+      "hosts":[
+         
+      ],
+      "category":"PHP",
+      "frequency":"Once a month",
+      "runtime":""
+   },
+   {
+      "id":204,
+      "name":"Laravel News Podcast",
+      "link":"https://laravel-news.com/podcast/",
+      "rss_feed":"",
+      "description":"The Laravel News Podcast brings you all the latest news and events related to Laravel.",
+      "hosts":[
+         {
+            "name":"Jacob Bennett"
+         },
+         {
+            "name":"Michael Dyrynda"
+         }
+      ],
+      "category":"Laravel",
+      "frequency":"Every two weeks",
+      "runtime":"30 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":205,
+      "name":"The Laravel Podcast",
+      "link":"https://laravelpodcast.com",
+      "rss_feed":"",
+      "description":"The Laravel Podcast brings you Laravel and PHP development news and discussion. Season 4 consists of guest interviews by Matt Stauffer talking about a new topic in the Laravel community for each episode.",
+      "hosts":[
+         {
+            "name":"Matt Stauffer"
+         }
+      ],
+      "category":"Laravel",
+      "frequency":"Various",
+      "runtime":"40 - 90 mins"
+   },
+   {
+      "id":206,
+      "name":"Friday Afternoon Deploy",
+      "link":"https://friday.hirelofty.com/",
+      "rss_feed":"https://feeds.buzzsprout.com/223293.rss",
+      "description":"A podcast about the culture and chaos of software engineering. @LoftyLabs devs make software then discuss our regrets on Fridays.",
+      "hosts":[
+         {
+            "name":"Tyrel Denison"
+         },
+         {
+            "name":"Casey Kinsey"
+         },
+         {
+            "name":"Alan Fraley"
+         },
+         {
+            "name":"Hayden Luckenbach"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Once a week",
+      "runtime":"50 - 70 mins, regularly ~60 mins"
+   },
+   {
+      "id":207,
+      "name":"Podcast.init",
+      "link":"https://pythonpodcast.com/",
+      "rss_feed":"",
+      "description":"The Podcast About Python and the People Who Make It Great",
+      "hosts":[
+         {
+            "name":"Tobias Macey"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Once a week",
+      "runtime":"20 - 70 mins, regularly ~45 mins"
+   },
+   {
+      "id":208,
+      "name":"Python Bytes",
+      "link":"https://pythonbytes.fm/",
+      "rss_feed":"",
+      "description":"Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.",
+      "hosts":[
+         {
+            "name":"Michael Kennedy"
+         },
+         {
+            "name":"Brian Okken"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Once a week",
+      "runtime":"15 - 30 mins, regularly ~20 mins"
+   },
+   {
+      "id":209,
+      "name":"Talk Python To Me",
+      "link":"https://talkpython.fm/",
+      "rss_feed":"",
+      "description":"Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).",
+      "hosts":[
+         {
+            "name":"Michael Kennedy"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Once a week",
+      "runtime":"35 - 80 mins, regularly ~55 mins"
+   },
+   {
+      "id":210,
+      "name":"Test and Code",
+      "link":"https://testandcode.com/",
+      "rss_feed":"",
+      "description":"Test and Code is a podcast that focuses on testing in particular and Python in general.",
+      "hosts":[
+         {
+            "name":"Brian Okken"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Various",
+      "runtime":"15 - 60 mins, regularly ~30 mins"
+   },
+   {
+      "id":211,
+      "name":"The Real Python Podcast",
+      "link":"https://realpython.com/podcasts/rpp/",
+      "rss_feed":"",
+      "description":"A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community. The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics.",
+      "hosts":[
+         {
+            "name":"Christopher Bailey"
+         }
+      ],
+      "category":"Python",
+      "frequency":"Once a week",
+      "runtime":"40 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":212,
+      "name":"Django Chat",
+      "link":"https://djangochat.com/",
+      "rss_feed":"",
+      "description":"A weekly podcast on the Django Web Framework.",
+      "hosts":[
+         {
+            "name":"William Vincent"
+         },
+         {
+            "name":"Carlton Gibson"
+         }
+      ],
+      "category":"Django",
+      "frequency":"Once a week",
+      "runtime":"20 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":213,
+      "name":"Django-Riffs",
+      "link":"https://www.mattlayman.com/django-riffs/",
+      "rss_feed":"",
+      "description":"Django Riffs is a podcast for learning web application development in Python using the Django web framework. We explore all of Django's features to equip listeners with the knowledge to build a web app.",
+      "hosts":[
+         {
+            "name":"Matt Layman"
+         }
+      ],
+      "category":"Django",
+      "frequency":"Once a month",
+      "runtime":"30 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":214,
+      "name":"The R-Podcast",
+      "link":"https://r-podcast.org/",
+      "rss_feed":"",
+      "description":"Podcast about giving practical advice on how to use R for powerful and innovative data analyses.",
+      "hosts":[
+         {
+            "name":"Eric Nantz"
+         }
+      ],
+      "category":"R",
+      "frequency":"Once a week",
+      "runtime":"30 - 90 mins, regularly ~60 mins"
+   },
+   {
+      "id":215,
+      "name":"Reason Town",
+      "link":"https://reason.town/",
+      "rss_feed":"",
+      "description":"A podcast about the ReasonML language",
+      "hosts":[
+         {
+            "name":"Murphy Randle"
+         },
+         {
+            "name":"Jared Forsyth"
+         }
+      ],
+      "category":"ReasonML",
+      "frequency":"Approximately once a month",
+      "runtime":"15 - 40 mins, regularly ~40 mins"
+   },
+   {
+      "id":216,
+      "name":"My Ruby Story",
+      "link":"https://devchat.tv/my-ruby-story",
+      "rss_feed":"",
+      "description":"A weekly exploration into the people who make Ruby what it is.",
+      "hosts":[
+         {
+            "name":"Devchat"
+         }
+      ],
+      "category":"Ruby/Rails",
+      "frequency":"Once a week",
+      "runtime":"25 - 60 mins, regularly ~40 mins"
+   },
+   {
+      "id":217,
+      "name":"Ruby Rogues",
+      "link":"https://devchat.tv/ruby-rogues",
+      "rss_feed":"",
+      "description":"Ruby and Rails",
+      "hosts":[
+         
+      ],
+      "category":"Ruby/Rails",
+      "frequency":"Once a week",
+      "runtime":"25 - 110 mins, regularly ~60 mins"
+   },
+   {
+      "id":218,
+      "name":"Remote Ruby",
+      "link":"https://remoteruby.transistor.fm/",
+      "rss_feed":"",
+      "description":"Ruby and Rails",
+      "hosts":[
+         {
+            "name":"Chris Oliver"
+         },
+         {
+            "name":"Jason Charnes"
+         }
+      ],
+      "category":"Ruby/Rails",
+      "frequency":"Once a week",
+      "runtime":"34 - 61 mins, regularly ~50 mins"
+   },
+   {
+      "id":219,
+      "name":"Ruby on Rails Podcast",
+      "link":"http://5by5.tv/rubyonrails",
+      "rss_feed":"",
+      "description":"Conversation about Ruby on Rails, open source software, and the programming profession.",
+      "hosts":[
+         {
+            "name":"Brittany Martin"
+         }
+      ],
+      "category":"Ruby/Rails",
+      "frequency":"Once a month",
+      "runtime":"5 - 110 mins, regularly ~45 mins"
+   },
+   {
+      "id":220,
+      "name":"The Ruby Testing Podcast",
+      "link":"http://www.rubytestingpodcast.com/",
+      "rss_feed":"",
+      "description":"On the Ruby Testing Podcast we discuss how to get started with testing as well as how to write better, more effective tests.",
+      "hosts":[
+         {
+            "name":"Jason Swett"
+         }
+      ],
+      "category":"Ruby/Rails",
+      "frequency":"Various",
+      "runtime":"30 - 60 mins, regularly ~45 mins"
+   },
+   {
+      "id":221,
+      "name":"Are We Podcast Yet?",
+      "link":"https://arewepodcastyet.com/",
+      "rss_feed":"",
+      "description":"A new fn Podcast about all things Rust.",
+      "hosts":[
+         {
+            "name":"Vijay Kiran"
+         },
+         {
+            "name":"Wouter Dullaert"
+         }
+      ],
+      "category":"Rust",
+      "frequency":"Various",
+      "runtime":"60 - 90 mins"
+   },
+   {
+      "id":222,
+      "name":"New Rustacean",
+      "link":"https://newrustacean.com/",
+      "rss_feed":"",
+      "description":"A podcast about learning Rust—from scratch.",
+      "hosts":[
+         {
+            "name":"Chris Krycho"
+         }
+      ],
+      "category":"Rust",
+      "frequency":"Various",
+      "runtime":"5 - 30 mins, regularly ~20 mins"
+   },
+   {
+      "id":223,
+      "name":"Request for Explanation",
+      "link":"https://github.com/request-for-explanation/podcast",
+      "rss_feed":"",
+      "description":"Each episode discusses a particular Rust RFC in detail.",
+      "hosts":[
+         
+      ],
+      "category":"Rust",
+      "frequency":"Once a week (no new episodes since 2017)",
+      "runtime":"15 - 60 mins, regularly ~30 mins"
+   },
+   {
+      "id":224,
+      "name":"Rustacean Station",
+      "link":"https://rustacean-station.org",
+      "rss_feed":"",
+      "description":"A community project for creating podcast content for the Rust programming language.",
+      "hosts":[
+         
+      ],
+      "category":"Rust",
+      "frequency":"Various",
+      "runtime":"40 - 60 mins"
+   },
+   {
+      "id":225,
+      "name":"Scalalaz",
+      "link":"https://scalalaz.ru/",
+      "rss_feed":"",
+      "description":"Russian-speaking podcast about Scala, functional programming and software development",
+      "hosts":[
+         
+      ],
+      "category":"Scala",
+      "frequency":"Once in 2 weeks",
+      "runtime":"50 - 120 mins, regularly ~90 mins"
+   }
+]
